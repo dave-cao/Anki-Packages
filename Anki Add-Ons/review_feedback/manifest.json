@@ -1,0 +1,12 @@
+{
+    "name": "Visual Feedback for Reviews",
+    "package": "review_feedback",
+    "ankiweb_id": "1749604199",
+    "author": "Glutanimate",
+    "version": "v1.0.0-beta.3",
+    "homepage": "https://github.com/glutanimate/review-feedback",
+    "conflicts": [
+        "1749604199"
+    ],
+    "mod": 1580327014
+}

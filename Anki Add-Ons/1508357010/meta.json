@@ -1,0 +1,1 @@
+{"name": "Remaining time for Anki 21", "mod": 1607868855, "min_point_version": 0, "max_point_version": 0, "branch_index": 0, "human_version": "20.12.13i151", "disabled": false, "conflicts": [], "config": {"barCSS": "", "debug": false, "messageFormat": "Elapsed %(elapsedTime),  Remaining %(remainingTime), Total %(totalTime)", "runOnMobile": false, "showAtBottom": false}}

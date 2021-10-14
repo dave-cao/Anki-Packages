@@ -1,0 +1,25 @@
+:root {
+  --NDABversion: "1.0";
+
+  --fontSize: 1.1em;
+  --fontVerticalOffset: 1.7em;
+  --AnswerButtonHeight: 2.5em;
+  --AnswerButtonWidth: 10em;
+
+  --Again_fontColor:#330000;
+  --Hard_fontColor:#332200;
+  --Good_fontColor:#013300;
+  --Easy_fontColor:#000033;
+
+  --Again_fontShadow:#de8181;
+  --Hard_fontShadow:#debf81;
+  --Good_fontShadow:#81dea2;
+  --Easy_fontShadow:#818fde;
+
+  --Again_buttonColor:#ff6961;
+  --Hard_buttonColor:#ffa900;
+  --Good_buttonColor:#42ff9a;
+  --Easy_buttonColor:#61a8ff;
+
+  --default_ease_highlightColor:#8373ff;
+}

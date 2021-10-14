@@ -1,0 +1,170 @@
+/*No Distractions Full Screen v4.0.2*/
+/*To change ND Answer Bar apperance, please modify ND_answerbar_settings.css*/
+
+body, #outer{
+  background: transparent !important;
+  border-top-color: transparent !important;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+table#innertable{
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  height: auto;
+  width: 100%;
+  //border: 1px solid skyblue;
+  pointer-events: none;
+}
+
+.ans, .ques {
+  height: var(--AnswerButtonHeight);
+  margin-right: 1.5em;
+  margin-left: 1.5em;
+  //border: 1px solid blue;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  user-select: none;
+}
+
+.ans {
+  flex-basis: var(--AnswerButtonWidth);
+  line-height: var(--fontVerticalOffset);
+}
+
+.ques {
+  flex-basis: auto;
+  line-height: var(--fontVerticalOffset);
+}
+
+.platform {
+  max-height: 70%;
+  min-height: 70%;
+  width: 100%;
+  box-sizing: border-box;
+  //border: 1px solid orange;
+  border-radius: 5px 5px 0px 0px;
+  opacity: 1;
+  overflow:hidden;
+  text-align: center;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.platform:hover {
+  box-shadow: inset 0px 40px 112px -8px rgba(255,255,255,0.32);
+}
+
+.nobold, .platform {
+  font-size: var(--fontSize);
+  font-weight: 700;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  color: inherit !important;
+}
+
+#defease{
+  font-size: var(--fontSize);
+  background-color: initial;
+  box-shadow: 0 0 0 2px var(--default_ease_highlightColor);
+}
+
+#defease:hover {
+  box-shadow: 0 0 0 2px var(--default_ease_highlightColor), inset 0px 40px 112px -8px rgba(255,255,255,0.32);
+}
+
+.nobold {
+  padding-top: 0;
+}
+
+#Again .platform {
+  background-color: var(--Again_buttonColor) !important;
+  color: var(--Again_fontColor) !important;
+  text-shadow: 0px 2px 3px var(--Again_fontShadow) !important;
+}
+
+#Hard .platform {
+  background-color: var(--Hard_buttonColor) !important;
+  color: var(--Hard_fontColor) !important;
+  text-shadow: 0px 2px 3px var(--Hard_fontShadow) !important;
+}
+
+#Good .platform {
+  background-color: var(--Good_buttonColor) !important;
+  color: var(--Good_fontColor) !important;
+  text-shadow: 0px 2px 3px var(--Good_fontShadow) !important;
+}
+
+#Easy .platform {
+  background-color: var(--Easy_buttonColor) !important;
+  color: var(--Easy_fontColor) !important;
+  text-shadow: 0px 2px 3px var(--Easy_fontShadow) !important;
+}
+
+.ques .platform {
+  background-color: var(--bkgndColor) !important;
+  //text-shadow: 0px 2px 3px #555 !important;
+}
+
+@keyframes ansConf {
+  0% {
+    min-height: 70%;
+  }
+
+  70% {
+    min-height: 90%;
+    opacity: 1;
+  }
+
+  100% {
+    min-height: 90%;
+    opacity: 0;
+  }
+}
+
+.ansConf {
+  animation-name: ansConf;
+  animation-duration: var(--animTime);
+  animation-timing-function: ease-out;
+  animation-delay: 0s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.fadeOut {
+  animation-name: fadeOut;
+  animation-duration: var(--animTime);
+  animation-timing-function: ease-out;
+  animation-delay: 0s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}

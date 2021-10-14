@@ -1,0 +1,1652 @@
+[2020-12-09 16:51:55]	 - Output instruction: {"instType":0}
+[2020-12-09 16:51:58]	RCC - prev: {"nu":70,"lrn":11,"rev":135}, current: {"nu":70,"lrn":10,"rev":135}
+[2020-12-09 16:51:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:52:13]	RCC - prev: {"nu":70,"lrn":10,"rev":135}, current: {"nu":65,"lrn":4,"rev":128}
+[2020-12-09 16:52:13]	 - Output instruction: {"instType":0}
+[2020-12-09 16:52:15]	RCC - prev: {"nu":65,"lrn":4,"rev":128}, current: {"nu":65,"lrn":3,"rev":128}
+[2020-12-09 16:52:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:52:18]	RCC - prev: {"nu":65,"lrn":3,"rev":128}, current: {"nu":65,"lrn":3,"rev":127}
+[2020-12-09 16:52:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:52:29]	RCC - prev: {"nu":65,"lrn":3,"rev":127}, current: {"nu":64,"lrn":3,"rev":127}
+[2020-12-09 16:52:29]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:52:31]	RCC - prev: {"nu":64,"lrn":3,"rev":127}, current: {"nu":64,"lrn":3,"rev":126}
+[2020-12-09 16:52:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:53:15]	RCC - prev: {"nu":64,"lrn":3,"rev":126}, current: {"nu":63,"lrn":4,"rev":126}
+[2020-12-09 16:53:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-09 16:53:36]	RCC - prev: {"nu":63,"lrn":4,"rev":126}, current: {"nu":63,"lrn":4,"rev":125}
+[2020-12-09 16:53:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:53:44]	RCC - prev: {"nu":63,"lrn":4,"rev":125}, current: {"nu":62,"lrn":4,"rev":125}
+[2020-12-09 16:53:44]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:53:48]	RCC - prev: {"nu":62,"lrn":4,"rev":125}, current: {"nu":62,"lrn":4,"rev":124}
+[2020-12-09 16:53:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:53:54]	RCC - prev: {"nu":62,"lrn":4,"rev":124}, current: {"nu":61,"lrn":4,"rev":124}
+[2020-12-09 16:53:54]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:53:57]	RCC - prev: {"nu":61,"lrn":4,"rev":124}, current: {"nu":61,"lrn":4,"rev":123}
+[2020-12-09 16:53:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:53:58]	RCC - prev: {"nu":61,"lrn":4,"rev":123}, current: {"nu":60,"lrn":4,"rev":123}
+[2020-12-09 16:53:58]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:54:02]	RCC - prev: {"nu":60,"lrn":4,"rev":123}, current: {"nu":60,"lrn":4,"rev":122}
+[2020-12-09 16:54:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:54:04]	RCC - prev: {"nu":60,"lrn":4,"rev":122}, current: {"nu":60,"lrn":4,"rev":121}
+[2020-12-09 16:54:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:55:28]	RCC - prev: {"nu":60,"lrn":4,"rev":121}, current: {"nu":60,"lrn":3,"rev":121}
+[2020-12-09 16:55:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:55:33]	RCC - prev: {"nu":60,"lrn":3,"rev":121}, current: {"nu":60,"lrn":2,"rev":121}
+[2020-12-09 16:55:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:55:34]	RCC - prev: {"nu":60,"lrn":2,"rev":121}, current: {"nu":60,"lrn":2,"rev":120}
+[2020-12-09 16:55:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:55:50]	RCC - prev: {"nu":60,"lrn":2,"rev":120}, current: {"nu":59,"lrn":3,"rev":120}
+[2020-12-09 16:55:50]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-09 16:55:54]	 - Output instruction: {"instType":3}
+[2020-12-09 16:56:05]	RCC - prev: {"nu":60,"lrn":2,"rev":120}, current: {"nu":59,"lrn":3,"rev":120}
+[2020-12-09 16:56:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-09 16:56:06]	RCC - prev: {"nu":59,"lrn":3,"rev":120}, current: {"nu":59,"lrn":2,"rev":120}
+[2020-12-09 16:56:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:56:07]	RCC - prev: {"nu":59,"lrn":2,"rev":120}, current: {"nu":59,"lrn":1,"rev":120}
+[2020-12-09 16:56:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:56:09]	RCC - prev: {"nu":59,"lrn":1,"rev":120}, current: {"nu":58,"lrn":1,"rev":120}
+[2020-12-09 16:56:09]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:56:09]	 - Output instruction: {"instType":3}
+[2020-12-09 16:56:10]	RCC - prev: {"nu":59,"lrn":1,"rev":120}, current: {"nu":58,"lrn":1,"rev":119}
+[2020-12-09 16:56:10]	 - Output instruction: {"instType":0}
+[2020-12-09 16:56:12]	RCC - prev: {"nu":58,"lrn":1,"rev":119}, current: {"nu":58,"lrn":1,"rev":118}
+[2020-12-09 16:56:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:15]	RCC - prev: {"nu":58,"lrn":1,"rev":118}, current: {"nu":58,"lrn":1,"rev":117}
+[2020-12-09 16:56:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:16]	RCC - prev: {"nu":58,"lrn":1,"rev":117}, current: {"nu":57,"lrn":1,"rev":117}
+[2020-12-09 16:56:16]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:56:21]	RCC - prev: {"nu":57,"lrn":1,"rev":117}, current: {"nu":57,"lrn":1,"rev":116}
+[2020-12-09 16:56:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:22]	RCC - prev: {"nu":57,"lrn":1,"rev":116}, current: {"nu":57,"lrn":1,"rev":115}
+[2020-12-09 16:56:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:25]	RCC - prev: {"nu":57,"lrn":1,"rev":115}, current: {"nu":56,"lrn":2,"rev":115}
+[2020-12-09 16:56:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-09 16:56:27]	RCC - prev: {"nu":56,"lrn":2,"rev":115}, current: {"nu":56,"lrn":2,"rev":114}
+[2020-12-09 16:56:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:33]	RCC - prev: {"nu":56,"lrn":2,"rev":114}, current: {"nu":56,"lrn":2,"rev":113}
+[2020-12-09 16:56:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:35]	RCC - prev: {"nu":56,"lrn":2,"rev":113}, current: {"nu":55,"lrn":2,"rev":113}
+[2020-12-09 16:56:35]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:56:41]	RCC - prev: {"nu":55,"lrn":2,"rev":113}, current: {"nu":55,"lrn":2,"rev":112}
+[2020-12-09 16:56:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:56:42]	RCC - prev: {"nu":55,"lrn":2,"rev":112}, current: {"nu":41,"lrn":2,"rev":111}
+[2020-12-09 16:56:42]	 - Output instruction: {"instType":0}
+[2020-12-09 16:56:46]	RCC - prev: {"nu":41,"lrn":2,"rev":111}, current: {"nu":41,"lrn":2,"rev":111}
+[2020-12-09 16:56:46]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:57:04]	RCC - prev: {"nu":41,"lrn":2,"rev":111}, current: {"nu":43,"lrn":3,"rev":110}
+[2020-12-09 16:57:04]	 - Output instruction: {"instType":0}
+[2020-12-09 16:57:11]	RCC - prev: {"nu":43,"lrn":3,"rev":110}, current: {"nu":43,"lrn":3,"rev":110}
+[2020-12-09 16:57:11]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:57:22]	RCC - prev: {"nu":43,"lrn":3,"rev":110}, current: {"nu":43,"lrn":4,"rev":110}
+[2020-12-09 16:57:22]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-09 16:57:27]	RCC - prev: {"nu":43,"lrn":4,"rev":110}, current: {"nu":43,"lrn":4,"rev":110}
+[2020-12-09 16:57:27]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:57:29]	RCC - prev: {"nu":43,"lrn":4,"rev":110}, current: {"nu":43,"lrn":4,"rev":109}
+[2020-12-09 16:57:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:57:36]	RCC - prev: {"nu":43,"lrn":4,"rev":109}, current: {"nu":42,"lrn":4,"rev":108}
+[2020-12-09 16:57:36]	 - Output instruction: {"instType":0}
+[2020-12-09 16:57:36]	RCC - prev: {"nu":42,"lrn":4,"rev":108}, current: {"nu":42,"lrn":4,"rev":108}
+[2020-12-09 16:57:36]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:57:41]	RCC - prev: {"nu":42,"lrn":4,"rev":108}, current: {"nu":42,"lrn":4,"rev":107}
+[2020-12-09 16:57:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:57:42]	RCC - prev: {"nu":42,"lrn":4,"rev":107}, current: {"nu":42,"lrn":6,"rev":108}
+[2020-12-09 16:57:42]	 - Output instruction: {"instType":1,"dy":-3,"logType":"unknown"}
+[2020-12-09 16:58:23]	RCC - prev: {"nu":42,"lrn":6,"rev":108}, current: {"nu":42,"lrn":6,"rev":108}
+[2020-12-09 16:58:23]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:58:27]	RCC - prev: {"nu":42,"lrn":6,"rev":108}, current: {"nu":42,"lrn":6,"rev":108}
+[2020-12-09 16:58:27]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:58:49]	RCC - prev: {"nu":42,"lrn":6,"rev":108}, current: {"nu":42,"lrn":7,"rev":108}
+[2020-12-09 16:58:49]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-09 16:58:51]	RCC - prev: {"nu":42,"lrn":7,"rev":108}, current: {"nu":42,"lrn":6,"rev":108}
+[2020-12-09 16:58:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:58:53]	RCC - prev: {"nu":42,"lrn":6,"rev":108}, current: {"nu":42,"lrn":5,"rev":108}
+[2020-12-09 16:58:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 16:58:58]	RCC - prev: {"nu":42,"lrn":5,"rev":108}, current: {"nu":42,"lrn":5,"rev":107}
+[2020-12-09 16:58:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:59:00]	RCC - prev: {"nu":42,"lrn":5,"rev":107}, current: {"nu":41,"lrn":5,"rev":107}
+[2020-12-09 16:59:00]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:59:02]	RCC - prev: {"nu":41,"lrn":5,"rev":107}, current: {"nu":41,"lrn":5,"rev":106}
+[2020-12-09 16:59:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:59:08]	RCC - prev: {"nu":41,"lrn":5,"rev":106}, current: {"nu":41,"lrn":5,"rev":106}
+[2020-12-09 16:59:08]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 16:59:10]	RCC - prev: {"nu":41,"lrn":5,"rev":106}, current: {"nu":40,"lrn":5,"rev":106}
+[2020-12-09 16:59:10]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:59:11]	RCC - prev: {"nu":40,"lrn":5,"rev":106}, current: {"nu":40,"lrn":5,"rev":105}
+[2020-12-09 16:59:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:59:13]	RCC - prev: {"nu":40,"lrn":5,"rev":105}, current: {"nu":40,"lrn":5,"rev":104}
+[2020-12-09 16:59:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:59:19]	RCC - prev: {"nu":40,"lrn":5,"rev":104}, current: {"nu":39,"lrn":5,"rev":104}
+[2020-12-09 16:59:19]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 16:59:20]	RCC - prev: {"nu":39,"lrn":5,"rev":104}, current: {"nu":39,"lrn":5,"rev":103}
+[2020-12-09 16:59:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 16:59:25]	RCC - prev: {"nu":39,"lrn":5,"rev":103}, current: {"nu":39,"lrn":5,"rev":102}
+[2020-12-09 16:59:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:00:49]	RCC - prev: {"nu":39,"lrn":5,"rev":102}, current: {"nu":38,"lrn":7,"rev":102}
+[2020-12-09 17:00:49]	 - Output instruction: {"instType":1,"dy":0,"logType":"new"}
+[2020-12-09 17:00:54]	RCC - prev: {"nu":38,"lrn":7,"rev":102}, current: {"nu":38,"lrn":7,"rev":101}
+[2020-12-09 17:00:54]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:00:55]	RCC - prev: {"nu":38,"lrn":7,"rev":101}, current: {"nu":38,"lrn":7,"rev":100}
+[2020-12-09 17:00:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:00:56]	RCC - prev: {"nu":38,"lrn":7,"rev":100}, current: {"nu":37,"lrn":7,"rev":100}
+[2020-12-09 17:00:56]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:01:10]	RCC - prev: {"nu":37,"lrn":7,"rev":100}, current: {"nu":37,"lrn":7,"rev":99}
+[2020-12-09 17:01:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:01:11]	RCC - prev: {"nu":37,"lrn":7,"rev":99}, current: {"nu":32,"lrn":8,"rev":97}
+[2020-12-09 17:01:11]	 - Output instruction: {"instType":0}
+[2020-12-09 17:01:12]	RCC - prev: {"nu":32,"lrn":8,"rev":97}, current: {"nu":32,"lrn":8,"rev":96}
+[2020-12-09 17:01:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:01:20]	RCC - prev: {"nu":32,"lrn":8,"rev":96}, current: {"nu":32,"lrn":8,"rev":95}
+[2020-12-09 17:01:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:01:30]	RCC - prev: {"nu":32,"lrn":8,"rev":95}, current: {"nu":32,"lrn":8,"rev":95}
+[2020-12-09 17:01:30]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 17:01:32]	RCC - prev: {"nu":32,"lrn":8,"rev":95}, current: {"nu":32,"lrn":8,"rev":94}
+[2020-12-09 17:01:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:01:56]	RCC - prev: {"nu":32,"lrn":8,"rev":94}, current: {"nu":32,"lrn":8,"rev":93}
+[2020-12-09 17:01:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:02:03]	RCC - prev: {"nu":32,"lrn":8,"rev":93}, current: {"nu":32,"lrn":8,"rev":93}
+[2020-12-09 17:02:03]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 17:02:12]	RCC - prev: {"nu":32,"lrn":8,"rev":93}, current: {"nu":32,"lrn":8,"rev":92}
+[2020-12-09 17:02:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:02:35]	RCC - prev: {"nu":32,"lrn":8,"rev":92}, current: {"nu":32,"lrn":8,"rev":91}
+[2020-12-09 17:02:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:04:59]	 - Output instruction: {"instType":0}
+[2020-12-09 17:05:01]	RCC - prev: {"nu":42,"lrn":12,"rev":108}, current: {"nu":42,"lrn":11,"rev":108}
+[2020-12-09 17:05:01]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:05:02]	RCC - prev: {"nu":42,"lrn":11,"rev":108}, current: {"nu":42,"lrn":10,"rev":108}
+[2020-12-09 17:05:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:05:29]	RCC - prev: {"nu":42,"lrn":10,"rev":108}, current: {"nu":42,"lrn":10,"rev":107}
+[2020-12-09 17:05:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:05:30]	 - Output instruction: {"instType":3}
+[2020-12-09 17:05:36]	RCC - prev: {"nu":42,"lrn":10,"rev":108}, current: {"nu":42,"lrn":10,"rev":107}
+[2020-12-09 17:05:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:05:45]	RCC - prev: {"nu":42,"lrn":10,"rev":107}, current: {"nu":41,"lrn":10,"rev":107}
+[2020-12-09 17:05:45]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:05:48]	RCC - prev: {"nu":41,"lrn":10,"rev":107}, current: {"nu":41,"lrn":10,"rev":106}
+[2020-12-09 17:05:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:05:53]	RCC - prev: {"nu":41,"lrn":10,"rev":106}, current: {"nu":41,"lrn":10,"rev":105}
+[2020-12-09 17:05:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:05:56]	RCC - prev: {"nu":41,"lrn":10,"rev":105}, current: {"nu":40,"lrn":10,"rev":105}
+[2020-12-09 17:05:56]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:05:57]	RCC - prev: {"nu":40,"lrn":10,"rev":105}, current: {"nu":40,"lrn":10,"rev":104}
+[2020-12-09 17:05:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:05:59]	RCC - prev: {"nu":40,"lrn":10,"rev":104}, current: {"nu":40,"lrn":10,"rev":103}
+[2020-12-09 17:05:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:06:02]	RCC - prev: {"nu":40,"lrn":10,"rev":103}, current: {"nu":39,"lrn":10,"rev":103}
+[2020-12-09 17:06:02]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:12:47]	RCC - prev: {"nu":39,"lrn":10,"rev":103}, current: {"nu":39,"lrn":16,"rev":100}
+[2020-12-09 17:12:47]	 - Output instruction: {"instType":1,"dy":-3,"logType":"rev-again"}
+[2020-12-09 17:12:51]	RCC - prev: {"nu":39,"lrn":16,"rev":100}, current: {"nu":39,"lrn":16,"rev":99}
+[2020-12-09 17:12:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:12:58]	RCC - prev: {"nu":39,"lrn":16,"rev":99}, current: {"nu":39,"lrn":15,"rev":99}
+[2020-12-09 17:12:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:12:59]	RCC - prev: {"nu":39,"lrn":15,"rev":99}, current: {"nu":39,"lrn":14,"rev":99}
+[2020-12-09 17:12:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:11]	RCC - prev: {"nu":39,"lrn":14,"rev":99}, current: {"nu":39,"lrn":14,"rev":97}
+[2020-12-09 17:13:11]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-09 17:13:14]	RCC - prev: {"nu":39,"lrn":14,"rev":97}, current: {"nu":39,"lrn":13,"rev":97}
+[2020-12-09 17:13:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:18]	RCC - prev: {"nu":39,"lrn":13,"rev":97}, current: {"nu":39,"lrn":12,"rev":97}
+[2020-12-09 17:13:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:19]	RCC - prev: {"nu":39,"lrn":12,"rev":97}, current: {"nu":39,"lrn":11,"rev":97}
+[2020-12-09 17:13:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:21]	RCC - prev: {"nu":39,"lrn":11,"rev":97}, current: {"nu":39,"lrn":10,"rev":97}
+[2020-12-09 17:13:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:25]	RCC - prev: {"nu":39,"lrn":10,"rev":97}, current: {"nu":39,"lrn":9,"rev":97}
+[2020-12-09 17:13:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:29]	RCC - prev: {"nu":39,"lrn":9,"rev":97}, current: {"nu":39,"lrn":8,"rev":97}
+[2020-12-09 17:13:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:30]	RCC - prev: {"nu":39,"lrn":8,"rev":97}, current: {"nu":39,"lrn":7,"rev":97}
+[2020-12-09 17:13:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:13:31]	RCC - prev: {"nu":39,"lrn":7,"rev":97}, current: {"nu":39,"lrn":6,"rev":97}
+[2020-12-09 17:13:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:14:09]	RCC - prev: {"nu":39,"lrn":6,"rev":97}, current: {"nu":39,"lrn":6,"rev":96}
+[2020-12-09 17:14:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:14:58]	RCC - prev: {"nu":39,"lrn":6,"rev":96}, current: {"nu":39,"lrn":6,"rev":95}
+[2020-12-09 17:14:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:02]	RCC - prev: {"nu":39,"lrn":6,"rev":95}, current: {"nu":38,"lrn":6,"rev":95}
+[2020-12-09 17:15:02]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:15:04]	RCC - prev: {"nu":38,"lrn":6,"rev":95}, current: {"nu":38,"lrn":6,"rev":94}
+[2020-12-09 17:15:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:07]	RCC - prev: {"nu":38,"lrn":6,"rev":94}, current: {"nu":38,"lrn":6,"rev":93}
+[2020-12-09 17:15:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:09]	RCC - prev: {"nu":38,"lrn":6,"rev":93}, current: {"nu":37,"lrn":7,"rev":93}
+[2020-12-09 17:15:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-09 17:15:20]	RCC - prev: {"nu":37,"lrn":7,"rev":93}, current: {"nu":37,"lrn":7,"rev":92}
+[2020-12-09 17:15:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:30]	RCC - prev: {"nu":37,"lrn":7,"rev":92}, current: {"nu":37,"lrn":7,"rev":91}
+[2020-12-09 17:15:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:33]	RCC - prev: {"nu":37,"lrn":7,"rev":91}, current: {"nu":36,"lrn":7,"rev":91}
+[2020-12-09 17:15:33]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:15:36]	RCC - prev: {"nu":36,"lrn":7,"rev":91}, current: {"nu":36,"lrn":7,"rev":90}
+[2020-12-09 17:15:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:38]	RCC - prev: {"nu":36,"lrn":7,"rev":90}, current: {"nu":36,"lrn":7,"rev":89}
+[2020-12-09 17:15:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:15:43]	RCC - prev: {"nu":36,"lrn":7,"rev":89}, current: {"nu":35,"lrn":7,"rev":89}
+[2020-12-09 17:15:43]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:16:02]	RCC - prev: {"nu":35,"lrn":7,"rev":89}, current: {"nu":35,"lrn":7,"rev":88}
+[2020-12-09 17:16:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:16:05]	RCC - prev: {"nu":35,"lrn":7,"rev":88}, current: {"nu":35,"lrn":7,"rev":87}
+[2020-12-09 17:16:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:16:15]	RCC - prev: {"nu":35,"lrn":7,"rev":87}, current: {"nu":34,"lrn":7,"rev":87}
+[2020-12-09 17:16:15]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:16:18]	RCC - prev: {"nu":34,"lrn":7,"rev":87}, current: {"nu":34,"lrn":6,"rev":87}
+[2020-12-09 17:16:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:16:34]	RCC - prev: {"nu":34,"lrn":6,"rev":87}, current: {"nu":34,"lrn":6,"rev":86}
+[2020-12-09 17:16:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:16:37]	RCC - prev: {"nu":34,"lrn":6,"rev":86}, current: {"nu":33,"lrn":6,"rev":86}
+[2020-12-09 17:16:37]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:16:39]	RCC - prev: {"nu":33,"lrn":6,"rev":86}, current: {"nu":9,"lrn":6,"rev":84}
+[2020-12-09 17:16:39]	 - Output instruction: {"instType":0}
+[2020-12-09 17:16:40]	RCC - prev: {"nu":9,"lrn":6,"rev":84}, current: {"nu":5,"lrn":6,"rev":83}
+[2020-12-09 17:16:40]	 - Output instruction: {"instType":0}
+[2020-12-09 17:19:01]	RCC - prev: {"nu":5,"lrn":6,"rev":83}, current: {"nu":5,"lrn":7,"rev":82}
+[2020-12-09 17:19:01]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-09 17:19:49]	RCC - prev: {"nu":5,"lrn":7,"rev":82}, current: {"nu":5,"lrn":7,"rev":82}
+[2020-12-09 17:19:49]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 17:19:50]	 - Output instruction: {"instType":3}
+[2020-12-09 17:19:52]	RCC - prev: {"nu":5,"lrn":7,"rev":82}, current: {"nu":5,"lrn":6,"rev":82}
+[2020-12-09 17:19:52]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:20:46]	RCC - prev: {"nu":5,"lrn":6,"rev":82}, current: {"nu":5,"lrn":12,"rev":82}
+[2020-12-09 17:20:46]	 - Output instruction: {"instType":1,"dy":-6,"logType":"again"}
+[2020-12-09 17:20:52]	 - Output instruction: {"instType":2}
+[2020-12-09 17:20:59]	RCC - prev: {"nu":5,"lrn":12,"rev":82}, current: {"nu":5,"lrn":11,"rev":82}
+[2020-12-09 17:20:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:21:05]	RCC - prev: {"nu":5,"lrn":11,"rev":82}, current: {"nu":5,"lrn":10,"rev":82}
+[2020-12-09 17:21:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:22:24]	RCC - prev: {"nu":5,"lrn":10,"rev":82}, current: {"nu":5,"lrn":9,"rev":82}
+[2020-12-09 17:22:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:22:25]	RCC - prev: {"nu":5,"lrn":9,"rev":82}, current: {"nu":10,"lrn":10,"rev":82}
+[2020-12-09 17:22:25]	 - Output instruction: {"instType":1,"dy":-11,"logType":"unknown"}
+[2020-12-09 17:22:55]	RCC - prev: {"nu":10,"lrn":10,"rev":82}, current: {"nu":10,"lrn":11,"rev":82}
+[2020-12-09 17:22:55]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-09 17:24:25]	RCC - prev: {"nu":10,"lrn":11,"rev":82}, current: {"nu":5,"lrn":10,"rev":82}
+[2020-12-09 17:24:25]	 - Output instruction: {"instType":2}
+[2020-12-09 17:24:26]	RCC - prev: {"nu":5,"lrn":10,"rev":82}, current: {"nu":5,"lrn":9,"rev":82}
+[2020-12-09 17:24:26]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:24:27]	RCC - prev: {"nu":5,"lrn":9,"rev":82}, current: {"nu":5,"lrn":8,"rev":82}
+[2020-12-09 17:24:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-09 17:24:28]	RCC - prev: {"nu":5,"lrn":8,"rev":82}, current: {"nu":5,"lrn":8,"rev":81}
+[2020-12-09 17:24:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:24:34]	RCC - prev: {"nu":5,"lrn":8,"rev":81}, current: {"nu":5,"lrn":8,"rev":81}
+[2020-12-09 17:24:34]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-09 17:24:36]	RCC - prev: {"nu":5,"lrn":8,"rev":81}, current: {"nu":4,"lrn":8,"rev":81}
+[2020-12-09 17:24:36]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-09 17:24:38]	RCC - prev: {"nu":4,"lrn":8,"rev":81}, current: {"nu":4,"lrn":8,"rev":80}
+[2020-12-09 17:24:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:24:40]	RCC - prev: {"nu":4,"lrn":8,"rev":80}, current: {"nu":4,"lrn":8,"rev":79}
+[2020-12-09 17:24:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:25:04]	 - Output instruction: {"instType":2}
+[2020-12-09 17:25:10]	RCC - prev: {"nu":4,"lrn":8,"rev":79}, current: {"nu":4,"lrn":8,"rev":78}
+[2020-12-09 17:25:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-09 17:25:14]	RCC - prev: {"nu":4,"lrn":8,"rev":78}, current: {"nu":4,"lrn":8,"rev":77}
+[2020-12-09 17:25:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:17:25]	 - Output instruction: {"instType":0}
+[2020-12-10 19:17:28]	RCC - prev: {"nu":85,"lrn":3,"rev":110}, current: {"nu":4,"lrn":0,"rev":52}
+[2020-12-10 19:17:28]	 - Output instruction: {"instType":2}
+[2020-12-10 19:17:30]	RCC - prev: {"nu":4,"lrn":0,"rev":52}, current: {"nu":4,"lrn":0,"rev":51}
+[2020-12-10 19:17:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:17:41]	RCC - prev: {"nu":4,"lrn":0,"rev":51}, current: {"nu":4,"lrn":0,"rev":50}
+[2020-12-10 19:17:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:17:44]	RCC - prev: {"nu":4,"lrn":0,"rev":50}, current: {"nu":4,"lrn":0,"rev":49}
+[2020-12-10 19:17:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:17:45]	 - Output instruction: {"instType":3}
+[2020-12-10 19:21:29]	 - Output instruction: {"instType":0}
+[2020-12-10 19:21:31]	RCC - prev: {"nu":74,"lrn":1,"rev":96}, current: {"nu":74,"lrn":0,"rev":96}
+[2020-12-10 19:21:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-10 19:21:33]	RCC - prev: {"nu":74,"lrn":0,"rev":96}, current: {"nu":74,"lrn":0,"rev":95}
+[2020-12-10 19:21:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:21:39]	RCC - prev: {"nu":74,"lrn":0,"rev":95}, current: {"nu":74,"lrn":0,"rev":95}
+[2020-12-10 19:21:39]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-10 19:21:43]	RCC - prev: {"nu":74,"lrn":0,"rev":95}, current: {"nu":74,"lrn":0,"rev":94}
+[2020-12-10 19:21:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-10 19:22:02]	RCC - prev: {"nu":74,"lrn":0,"rev":94}, current: {"nu":74,"lrn":0,"rev":94}
+[2020-12-10 19:22:02]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-10 19:23:00]	RCC - prev: {"nu":74,"lrn":0,"rev":94}, current: {"nu":74,"lrn":0,"rev":92}
+[2020-12-10 19:23:00]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-10 19:44:36]	RCC - prev: {"nu":74,"lrn":0,"rev":92}, current: {"nu":82,"lrn":0,"rev":92}
+[2020-12-10 19:44:36]	 - Output instruction: {"instType":1,"dy":-16,"logType":"unknown"}
+[2020-12-11 22:52:26]	 - Output instruction: {"instType":0}
+[2020-12-11 22:52:29]	RCC - prev: {"nu":79,"lrn":4,"rev":215}, current: {"nu":79,"lrn":3,"rev":215}
+[2020-12-11 22:52:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 22:52:38]	RCC - prev: {"nu":79,"lrn":3,"rev":215}, current: {"nu":79,"lrn":2,"rev":215}
+[2020-12-11 22:52:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 22:55:46]	RCC - prev: {"nu":79,"lrn":2,"rev":215}, current: {"nu":79,"lrn":1,"rev":215}
+[2020-12-11 22:55:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 22:55:47]	 - Output instruction: {"instType":3}
+[2020-12-11 23:04:10]	 - Output instruction: {"instType":0}
+[2020-12-11 23:06:31]	RCC - prev: {"nu":79,"lrn":3,"rev":215}, current: {"nu":79,"lrn":2,"rev":215}
+[2020-12-11 23:06:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:07:13]	 - Output instruction: {"instType":2}
+[2020-12-11 23:07:14]	RCC - prev: {"nu":79,"lrn":2,"rev":215}, current: {"nu":79,"lrn":1,"rev":215}
+[2020-12-11 23:07:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:08:04]	RCC - prev: {"nu":79,"lrn":1,"rev":215}, current: {"nu":79,"lrn":1,"rev":214}
+[2020-12-11 23:08:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:08:04]	 - Output instruction: {"instType":3}
+[2020-12-11 23:08:04]	RCC - prev: {"nu":79,"lrn":1,"rev":215}, current: {"nu":79,"lrn":1,"rev":214}
+[2020-12-11 23:08:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:23:53]	RCC - prev: {"nu":79,"lrn":1,"rev":214}, current: {"nu":79,"lrn":2,"rev":214}
+[2020-12-11 23:23:53]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-11 23:23:57]	RCC - prev: {"nu":79,"lrn":2,"rev":214}, current: {"nu":79,"lrn":2,"rev":214}
+[2020-12-11 23:23:57]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-11 23:24:00]	RCC - prev: {"nu":79,"lrn":2,"rev":214}, current: {"nu":79,"lrn":1,"rev":214}
+[2020-12-11 23:24:00]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:24:04]	RCC - prev: {"nu":79,"lrn":1,"rev":214}, current: {"nu":78,"lrn":1,"rev":214}
+[2020-12-11 23:24:04]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-11 23:31:13]	RCC - prev: {"nu":78,"lrn":1,"rev":214}, current: {"nu":78,"lrn":2,"rev":214}
+[2020-12-11 23:31:13]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-11 23:31:17]	 - Output instruction: {"instType":2}
+[2020-12-11 23:31:21]	 - Output instruction: {"instType":2}
+[2020-12-11 23:31:33]	 - Output instruction: {"instType":2}
+[2020-12-11 23:31:39]	RCC - prev: {"nu":78,"lrn":2,"rev":214}, current: {"nu":78,"lrn":1,"rev":214}
+[2020-12-11 23:31:39]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:36:18]	RCC - prev: {"nu":78,"lrn":1,"rev":214}, current: {"nu":78,"lrn":2,"rev":214}
+[2020-12-11 23:36:18]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-11 23:36:23]	RCC - prev: {"nu":78,"lrn":2,"rev":214}, current: {"nu":77,"lrn":3,"rev":214}
+[2020-12-11 23:36:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-11 23:41:22]	RCC - prev: {"nu":77,"lrn":3,"rev":214}, current: {"nu":77,"lrn":3,"rev":213}
+[2020-12-11 23:41:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:41:27]	RCC - prev: {"nu":77,"lrn":3,"rev":213}, current: {"nu":77,"lrn":2,"rev":213}
+[2020-12-11 23:41:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:41:33]	RCC - prev: {"nu":77,"lrn":2,"rev":213}, current: {"nu":77,"lrn":1,"rev":213}
+[2020-12-11 23:41:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:41:36]	RCC - prev: {"nu":77,"lrn":1,"rev":213}, current: {"nu":77,"lrn":1,"rev":212}
+[2020-12-11 23:41:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:41:38]	RCC - prev: {"nu":77,"lrn":1,"rev":212}, current: {"nu":77,"lrn":1,"rev":211}
+[2020-12-11 23:41:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:41:53]	RCC - prev: {"nu":77,"lrn":1,"rev":211}, current: {"nu":77,"lrn":1,"rev":208}
+[2020-12-11 23:41:53]	 - Output instruction: {"instType":1,"dy":3,"logType":"rev-good"}
+[2020-12-11 23:42:46]	RCC - prev: {"nu":77,"lrn":1,"rev":208}, current: {"nu":76,"lrn":1,"rev":208}
+[2020-12-11 23:42:46]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-11 23:44:12]	RCC - prev: {"nu":76,"lrn":1,"rev":208}, current: {"nu":76,"lrn":1,"rev":207}
+[2020-12-11 23:44:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:51:16]	RCC - prev: {"nu":76,"lrn":1,"rev":207}, current: {"nu":76,"lrn":3,"rev":207}
+[2020-12-11 23:51:16]	 - Output instruction: {"instType":1,"dy":-2,"logType":"again"}
+[2020-12-11 23:51:18]	RCC - prev: {"nu":76,"lrn":3,"rev":207}, current: {"nu":76,"lrn":2,"rev":207}
+[2020-12-11 23:51:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:51:22]	RCC - prev: {"nu":76,"lrn":2,"rev":207}, current: {"nu":76,"lrn":2,"rev":206}
+[2020-12-11 23:51:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:51:25]	RCC - prev: {"nu":76,"lrn":2,"rev":206}, current: {"nu":76,"lrn":2,"rev":205}
+[2020-12-11 23:51:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:51:25]	 - Output instruction: {"instType":3}
+[2020-12-11 23:51:27]	RCC - prev: {"nu":76,"lrn":2,"rev":206}, current: {"nu":76,"lrn":2,"rev":200}
+[2020-12-11 23:51:27]	 - Output instruction: {"instType":1,"dy":6,"logType":"rev-good"}
+[2020-12-11 23:51:52]	RCC - prev: {"nu":76,"lrn":2,"rev":200}, current: {"nu":75,"lrn":2,"rev":200}
+[2020-12-11 23:51:52]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-11 23:52:18]	RCC - prev: {"nu":75,"lrn":2,"rev":200}, current: {"nu":75,"lrn":2,"rev":200}
+[2020-12-11 23:52:18]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-11 23:52:28]	RCC - prev: {"nu":75,"lrn":2,"rev":200}, current: {"nu":75,"lrn":2,"rev":199}
+[2020-12-11 23:52:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:52:45]	RCC - prev: {"nu":75,"lrn":2,"rev":199}, current: {"nu":75,"lrn":2,"rev":199}
+[2020-12-11 23:52:45]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-11 23:52:57]	RCC - prev: {"nu":75,"lrn":2,"rev":199}, current: {"nu":75,"lrn":2,"rev":198}
+[2020-12-11 23:52:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:53:07]	RCC - prev: {"nu":75,"lrn":2,"rev":198}, current: {"nu":75,"lrn":2,"rev":197}
+[2020-12-11 23:53:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:55:01]	 - Output instruction: {"instType":2}
+[2020-12-11 23:55:03]	RCC - prev: {"nu":75,"lrn":2,"rev":197}, current: {"nu":74,"lrn":3,"rev":197}
+[2020-12-11 23:55:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-11 23:55:18]	RCC - prev: {"nu":74,"lrn":3,"rev":197}, current: {"nu":74,"lrn":3,"rev":196}
+[2020-12-11 23:55:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:55:23]	RCC - prev: {"nu":74,"lrn":3,"rev":196}, current: {"nu":74,"lrn":3,"rev":195}
+[2020-12-11 23:55:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-11 23:57:27]	RCC - prev: {"nu":74,"lrn":3,"rev":195}, current: {"nu":73,"lrn":3,"rev":195}
+[2020-12-11 23:57:27]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-11 23:57:29]	RCC - prev: {"nu":73,"lrn":3,"rev":195}, current: {"nu":73,"lrn":2,"rev":195}
+[2020-12-11 23:57:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:57:36]	RCC - prev: {"nu":73,"lrn":2,"rev":195}, current: {"nu":73,"lrn":1,"rev":195}
+[2020-12-11 23:57:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-11 23:57:40]	RCC - prev: {"nu":73,"lrn":1,"rev":195}, current: {"nu":72,"lrn":1,"rev":195}
+[2020-12-11 23:57:40]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-11 23:57:41]	RCC - prev: {"nu":72,"lrn":1,"rev":195}, current: {"nu":72,"lrn":1,"rev":194}
+[2020-12-11 23:57:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:05:26]	RCC - prev: {"nu":72,"lrn":1,"rev":194}, current: {"nu":72,"lrn":5,"rev":193}
+[2020-12-12 00:05:26]	 - Output instruction: {"instType":1,"dy":-3,"logType":"rev-again"}
+[2020-12-12 00:05:45]	RCC - prev: {"nu":72,"lrn":5,"rev":193}, current: {"nu":72,"lrn":4,"rev":193}
+[2020-12-12 00:05:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:05:53]	RCC - prev: {"nu":72,"lrn":4,"rev":193}, current: {"nu":72,"lrn":4,"rev":192}
+[2020-12-12 00:05:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:06:02]	RCC - prev: {"nu":72,"lrn":4,"rev":192}, current: {"nu":72,"lrn":5,"rev":191}
+[2020-12-12 00:06:02]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:06:06]	RCC - prev: {"nu":72,"lrn":5,"rev":191}, current: {"nu":72,"lrn":5,"rev":188}
+[2020-12-12 00:06:06]	 - Output instruction: {"instType":1,"dy":3,"logType":"rev-good"}
+[2020-12-12 00:06:08]	RCC - prev: {"nu":72,"lrn":5,"rev":188}, current: {"nu":72,"lrn":5,"rev":187}
+[2020-12-12 00:06:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:06:11]	RCC - prev: {"nu":72,"lrn":5,"rev":187}, current: {"nu":72,"lrn":5,"rev":186}
+[2020-12-12 00:06:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:11:25]	RCC - prev: {"nu":72,"lrn":5,"rev":186}, current: {"nu":71,"lrn":5,"rev":186}
+[2020-12-12 00:11:25]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:11:41]	RCC - prev: {"nu":71,"lrn":5,"rev":186}, current: {"nu":71,"lrn":4,"rev":186}
+[2020-12-12 00:11:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:11:45]	RCC - prev: {"nu":71,"lrn":4,"rev":186}, current: {"nu":71,"lrn":3,"rev":186}
+[2020-12-12 00:11:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:12:01]	RCC - prev: {"nu":71,"lrn":3,"rev":186}, current: {"nu":71,"lrn":2,"rev":186}
+[2020-12-12 00:12:01]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:12:03]	RCC - prev: {"nu":71,"lrn":2,"rev":186}, current: {"nu":71,"lrn":1,"rev":186}
+[2020-12-12 00:12:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:14:50]	RCC - prev: {"nu":71,"lrn":1,"rev":186}, current: {"nu":71,"lrn":1,"rev":185}
+[2020-12-12 00:14:50]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:14:58]	RCC - prev: {"nu":71,"lrn":1,"rev":185}, current: {"nu":71,"lrn":0,"rev":185}
+[2020-12-12 00:14:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:15:11]	RCC - prev: {"nu":71,"lrn":0,"rev":185}, current: {"nu":71,"lrn":0,"rev":184}
+[2020-12-12 00:15:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:17:06]	RCC - prev: {"nu":71,"lrn":0,"rev":184}, current: {"nu":71,"lrn":1,"rev":183}
+[2020-12-12 00:17:06]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:17:08]	RCC - prev: {"nu":71,"lrn":1,"rev":183}, current: {"nu":71,"lrn":1,"rev":183}
+[2020-12-12 00:17:08]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 00:17:09]	RCC - prev: {"nu":71,"lrn":1,"rev":183}, current: {"nu":71,"lrn":1,"rev":182}
+[2020-12-12 00:17:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:17:12]	RCC - prev: {"nu":71,"lrn":1,"rev":182}, current: {"nu":70,"lrn":1,"rev":182}
+[2020-12-12 00:17:12]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:17:32]	RCC - prev: {"nu":70,"lrn":1,"rev":182}, current: {"nu":70,"lrn":1,"rev":181}
+[2020-12-12 00:17:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:17:43]	RCC - prev: {"nu":70,"lrn":1,"rev":181}, current: {"nu":70,"lrn":1,"rev":180}
+[2020-12-12 00:17:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:17:48]	RCC - prev: {"nu":70,"lrn":1,"rev":180}, current: {"nu":69,"lrn":1,"rev":180}
+[2020-12-12 00:17:48]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:18:20]	RCC - prev: {"nu":69,"lrn":1,"rev":180}, current: {"nu":69,"lrn":1,"rev":179}
+[2020-12-12 00:18:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:18:23]	RCC - prev: {"nu":69,"lrn":1,"rev":179}, current: {"nu":69,"lrn":1,"rev":178}
+[2020-12-12 00:18:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:18:42]	RCC - prev: {"nu":69,"lrn":1,"rev":178}, current: {"nu":69,"lrn":1,"rev":177}
+[2020-12-12 00:18:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:18:52]	RCC - prev: {"nu":69,"lrn":1,"rev":177}, current: {"nu":69,"lrn":1,"rev":177}
+[2020-12-12 00:18:52]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 00:19:56]	RCC - prev: {"nu":69,"lrn":1,"rev":177}, current: {"nu":69,"lrn":1,"rev":176}
+[2020-12-12 00:19:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:19:58]	RCC - prev: {"nu":69,"lrn":1,"rev":176}, current: {"nu":69,"lrn":1,"rev":175}
+[2020-12-12 00:19:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:20:00]	RCC - prev: {"nu":69,"lrn":1,"rev":175}, current: {"nu":68,"lrn":1,"rev":175}
+[2020-12-12 00:20:00]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:20:55]	RCC - prev: {"nu":68,"lrn":1,"rev":175}, current: {"nu":68,"lrn":1,"rev":174}
+[2020-12-12 00:20:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:20:56]	RCC - prev: {"nu":68,"lrn":1,"rev":174}, current: {"nu":68,"lrn":1,"rev":173}
+[2020-12-12 00:20:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:21:03]	RCC - prev: {"nu":68,"lrn":1,"rev":173}, current: {"nu":67,"lrn":2,"rev":173}
+[2020-12-12 00:21:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:21:58]	RCC - prev: {"nu":67,"lrn":2,"rev":173}, current: {"nu":67,"lrn":2,"rev":172}
+[2020-12-12 00:21:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:22:08]	RCC - prev: {"nu":67,"lrn":2,"rev":172}, current: {"nu":67,"lrn":3,"rev":171}
+[2020-12-12 00:22:08]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:22:23]	RCC - prev: {"nu":67,"lrn":3,"rev":171}, current: {"nu":66,"lrn":3,"rev":171}
+[2020-12-12 00:22:23]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:22:28]	RCC - prev: {"nu":66,"lrn":3,"rev":171}, current: {"nu":66,"lrn":3,"rev":170}
+[2020-12-12 00:22:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:22:31]	RCC - prev: {"nu":66,"lrn":3,"rev":170}, current: {"nu":66,"lrn":3,"rev":169}
+[2020-12-12 00:22:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:22:34]	RCC - prev: {"nu":66,"lrn":3,"rev":169}, current: {"nu":65,"lrn":3,"rev":169}
+[2020-12-12 00:22:34]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:22:49]	RCC - prev: {"nu":65,"lrn":3,"rev":169}, current: {"nu":65,"lrn":3,"rev":168}
+[2020-12-12 00:22:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:23:10]	RCC - prev: {"nu":65,"lrn":3,"rev":168}, current: {"nu":65,"lrn":3,"rev":167}
+[2020-12-12 00:23:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:23:12]	RCC - prev: {"nu":65,"lrn":3,"rev":167}, current: {"nu":64,"lrn":4,"rev":167}
+[2020-12-12 00:23:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:24:02]	RCC - prev: {"nu":64,"lrn":4,"rev":167}, current: {"nu":64,"lrn":6,"rev":167}
+[2020-12-12 00:24:02]	 - Output instruction: {"instType":1,"dy":-2,"logType":"again"}
+[2020-12-12 00:24:04]	RCC - prev: {"nu":64,"lrn":6,"rev":167}, current: {"nu":64,"lrn":6,"rev":165}
+[2020-12-12 00:24:04]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-12 00:25:11]	RCC - prev: {"nu":64,"lrn":6,"rev":165}, current: {"nu":64,"lrn":6,"rev":164}
+[2020-12-12 00:25:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:25:40]	RCC - prev: {"nu":64,"lrn":6,"rev":164}, current: {"nu":63,"lrn":6,"rev":164}
+[2020-12-12 00:25:40]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:26:02]	RCC - prev: {"nu":63,"lrn":6,"rev":164}, current: {"nu":63,"lrn":5,"rev":164}
+[2020-12-12 00:26:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:26:32]	RCC - prev: {"nu":63,"lrn":5,"rev":164}, current: {"nu":63,"lrn":5,"rev":163}
+[2020-12-12 00:26:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:26:44]	RCC - prev: {"nu":63,"lrn":5,"rev":163}, current: {"nu":63,"lrn":4,"rev":163}
+[2020-12-12 00:26:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:26:46]	RCC - prev: {"nu":63,"lrn":4,"rev":163}, current: {"nu":63,"lrn":4,"rev":162}
+[2020-12-12 00:26:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:26:49]	RCC - prev: {"nu":63,"lrn":4,"rev":162}, current: {"nu":63,"lrn":4,"rev":161}
+[2020-12-12 00:26:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:26:52]	RCC - prev: {"nu":63,"lrn":4,"rev":161}, current: {"nu":62,"lrn":4,"rev":161}
+[2020-12-12 00:26:52]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:26:59]	RCC - prev: {"nu":62,"lrn":4,"rev":161}, current: {"nu":62,"lrn":4,"rev":160}
+[2020-12-12 00:26:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:27:18]	RCC - prev: {"nu":62,"lrn":4,"rev":160}, current: {"nu":62,"lrn":4,"rev":159}
+[2020-12-12 00:27:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:27:41]	RCC - prev: {"nu":62,"lrn":4,"rev":159}, current: {"nu":61,"lrn":7,"rev":159}
+[2020-12-12 00:27:41]	 - Output instruction: {"instType":1,"dy":-1,"logType":"new"}
+[2020-12-12 00:28:34]	RCC - prev: {"nu":61,"lrn":7,"rev":159}, current: {"nu":61,"lrn":7,"rev":158}
+[2020-12-12 00:28:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:28:36]	RCC - prev: {"nu":61,"lrn":7,"rev":158}, current: {"nu":61,"lrn":8,"rev":159}
+[2020-12-12 00:28:36]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-12 00:28:50]	 - Output instruction: {"instType":2}
+[2020-12-12 00:28:51]	RCC - prev: {"nu":61,"lrn":8,"rev":159}, current: {"nu":61,"lrn":8,"rev":158}
+[2020-12-12 00:28:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:29:54]	RCC - prev: {"nu":61,"lrn":8,"rev":158}, current: {"nu":61,"lrn":9,"rev":158}
+[2020-12-12 00:29:54]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-12 00:29:56]	RCC - prev: {"nu":61,"lrn":9,"rev":158}, current: {"nu":61,"lrn":9,"rev":157}
+[2020-12-12 00:29:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:30:00]	RCC - prev: {"nu":61,"lrn":9,"rev":157}, current: {"nu":60,"lrn":10,"rev":157}
+[2020-12-12 00:30:00]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:30:02]	RCC - prev: {"nu":60,"lrn":10,"rev":157}, current: {"nu":60,"lrn":10,"rev":156}
+[2020-12-12 00:30:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:31:18]	 - Output instruction: {"instType":2}
+[2020-12-12 00:31:30]	RCC - prev: {"nu":60,"lrn":10,"rev":156}, current: {"nu":60,"lrn":10,"rev":156}
+[2020-12-12 00:31:30]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 00:31:32]	RCC - prev: {"nu":60,"lrn":10,"rev":156}, current: {"nu":60,"lrn":11,"rev":156}
+[2020-12-12 00:31:32]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-12 00:31:33]	RCC - prev: {"nu":60,"lrn":11,"rev":156}, current: {"nu":60,"lrn":11,"rev":156}
+[2020-12-12 00:31:33]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 00:31:34]	 - Output instruction: {"instType":3}
+[2020-12-12 00:31:37]	RCC - prev: {"nu":60,"lrn":11,"rev":156}, current: {"nu":60,"lrn":10,"rev":156}
+[2020-12-12 00:31:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:31:39]	RCC - prev: {"nu":60,"lrn":10,"rev":156}, current: {"nu":60,"lrn":9,"rev":156}
+[2020-12-12 00:31:39]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:31:57]	RCC - prev: {"nu":60,"lrn":9,"rev":156}, current: {"nu":59,"lrn":9,"rev":156}
+[2020-12-12 00:31:57]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:32:41]	RCC - prev: {"nu":59,"lrn":9,"rev":156}, current: {"nu":59,"lrn":10,"rev":155}
+[2020-12-12 00:32:41]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:32:44]	RCC - prev: {"nu":59,"lrn":10,"rev":155}, current: {"nu":59,"lrn":9,"rev":155}
+[2020-12-12 00:32:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:33:36]	 - Output instruction: {"instType":2}
+[2020-12-12 00:33:38]	RCC - prev: {"nu":59,"lrn":9,"rev":155}, current: {"nu":58,"lrn":9,"rev":155}
+[2020-12-12 00:33:38]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:33:53]	RCC - prev: {"nu":58,"lrn":9,"rev":155}, current: {"nu":58,"lrn":9,"rev":154}
+[2020-12-12 00:33:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:33:55]	RCC - prev: {"nu":58,"lrn":9,"rev":154}, current: {"nu":58,"lrn":8,"rev":154}
+[2020-12-12 00:33:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:34:16]	RCC - prev: {"nu":58,"lrn":8,"rev":154}, current: {"nu":58,"lrn":7,"rev":154}
+[2020-12-12 00:34:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:34:31]	RCC - prev: {"nu":58,"lrn":7,"rev":154}, current: {"nu":58,"lrn":6,"rev":154}
+[2020-12-12 00:34:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:34:34]	RCC - prev: {"nu":58,"lrn":6,"rev":154}, current: {"nu":58,"lrn":6,"rev":153}
+[2020-12-12 00:34:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:34:43]	RCC - prev: {"nu":58,"lrn":6,"rev":153}, current: {"nu":57,"lrn":6,"rev":153}
+[2020-12-12 00:34:43]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:34:48]	RCC - prev: {"nu":57,"lrn":6,"rev":153}, current: {"nu":57,"lrn":6,"rev":152}
+[2020-12-12 00:34:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:34:49]	RCC - prev: {"nu":57,"lrn":6,"rev":152}, current: {"nu":57,"lrn":6,"rev":151}
+[2020-12-12 00:34:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:35:13]	RCC - prev: {"nu":57,"lrn":6,"rev":151}, current: {"nu":56,"lrn":6,"rev":151}
+[2020-12-12 00:35:13]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:35:14]	RCC - prev: {"nu":56,"lrn":6,"rev":151}, current: {"nu":56,"lrn":6,"rev":150}
+[2020-12-12 00:35:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:35:45]	RCC - prev: {"nu":56,"lrn":6,"rev":150}, current: {"nu":56,"lrn":8,"rev":149}
+[2020-12-12 00:35:45]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-12 00:35:52]	RCC - prev: {"nu":56,"lrn":8,"rev":149}, current: {"nu":55,"lrn":8,"rev":149}
+[2020-12-12 00:35:52]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:35:55]	RCC - prev: {"nu":55,"lrn":8,"rev":149}, current: {"nu":55,"lrn":8,"rev":148}
+[2020-12-12 00:35:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:35:57]	 - Output instruction: {"instType":3}
+[2020-12-12 00:36:02]	 - Output instruction: {"instType":2}
+[2020-12-12 00:36:19]	RCC - prev: {"nu":55,"lrn":8,"rev":149}, current: {"nu":55,"lrn":8,"rev":148}
+[2020-12-12 00:36:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:37:19]	RCC - prev: {"nu":55,"lrn":8,"rev":148}, current: {"nu":55,"lrn":8,"rev":147}
+[2020-12-12 00:37:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:37:33]	RCC - prev: {"nu":55,"lrn":8,"rev":147}, current: {"nu":55,"lrn":7,"rev":147}
+[2020-12-12 00:37:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:37:43]	RCC - prev: {"nu":55,"lrn":7,"rev":147}, current: {"nu":55,"lrn":6,"rev":147}
+[2020-12-12 00:37:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:37:46]	RCC - prev: {"nu":55,"lrn":6,"rev":147}, current: {"nu":55,"lrn":6,"rev":146}
+[2020-12-12 00:37:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:37:48]	RCC - prev: {"nu":55,"lrn":6,"rev":146}, current: {"nu":54,"lrn":6,"rev":146}
+[2020-12-12 00:37:48]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:38:22]	RCC - prev: {"nu":54,"lrn":6,"rev":146}, current: {"nu":54,"lrn":6,"rev":145}
+[2020-12-12 00:38:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:38:29]	RCC - prev: {"nu":54,"lrn":6,"rev":145}, current: {"nu":54,"lrn":6,"rev":144}
+[2020-12-12 00:38:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:38:33]	RCC - prev: {"nu":54,"lrn":6,"rev":144}, current: {"nu":54,"lrn":5,"rev":144}
+[2020-12-12 00:38:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:38:40]	RCC - prev: {"nu":54,"lrn":5,"rev":144}, current: {"nu":54,"lrn":8,"rev":143}
+[2020-12-12 00:38:40]	 - Output instruction: {"instType":1,"dy":-2,"logType":"rev-again"}
+[2020-12-12 00:38:42]	RCC - prev: {"nu":54,"lrn":8,"rev":143}, current: {"nu":54,"lrn":8,"rev":142}
+[2020-12-12 00:38:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:38:46]	RCC - prev: {"nu":54,"lrn":8,"rev":142}, current: {"nu":53,"lrn":9,"rev":142}
+[2020-12-12 00:38:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:38:51]	RCC - prev: {"nu":53,"lrn":9,"rev":142}, current: {"nu":53,"lrn":9,"rev":141}
+[2020-12-12 00:38:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:39:02]	RCC - prev: {"nu":53,"lrn":9,"rev":141}, current: {"nu":53,"lrn":9,"rev":140}
+[2020-12-12 00:39:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:39:54]	RCC - prev: {"nu":53,"lrn":9,"rev":140}, current: {"nu":53,"lrn":11,"rev":140}
+[2020-12-12 00:39:54]	 - Output instruction: {"instType":1,"dy":-2,"logType":"again"}
+[2020-12-12 00:39:55]	RCC - prev: {"nu":53,"lrn":11,"rev":140}, current: {"nu":53,"lrn":10,"rev":140}
+[2020-12-12 00:39:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:40:05]	 - Output instruction: {"instType":2}
+[2020-12-12 00:40:05]	RCC - prev: {"nu":53,"lrn":10,"rev":140}, current: {"nu":53,"lrn":10,"rev":139}
+[2020-12-12 00:40:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:40:09]	RCC - prev: {"nu":53,"lrn":10,"rev":139}, current: {"nu":52,"lrn":11,"rev":139}
+[2020-12-12 00:40:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:40:14]	RCC - prev: {"nu":52,"lrn":11,"rev":139}, current: {"nu":52,"lrn":11,"rev":138}
+[2020-12-12 00:40:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:40:16]	RCC - prev: {"nu":52,"lrn":11,"rev":138}, current: {"nu":52,"lrn":11,"rev":137}
+[2020-12-12 00:40:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:40:23]	RCC - prev: {"nu":52,"lrn":11,"rev":137}, current: {"nu":51,"lrn":11,"rev":137}
+[2020-12-12 00:40:23]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:40:25]	RCC - prev: {"nu":51,"lrn":11,"rev":137}, current: {"nu":51,"lrn":11,"rev":136}
+[2020-12-12 00:40:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:40:36]	RCC - prev: {"nu":51,"lrn":11,"rev":136}, current: {"nu":51,"lrn":11,"rev":135}
+[2020-12-12 00:40:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:40:52]	RCC - prev: {"nu":51,"lrn":11,"rev":135}, current: {"nu":50,"lrn":11,"rev":135}
+[2020-12-12 00:40:52]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:40:55]	RCC - prev: {"nu":50,"lrn":11,"rev":135}, current: {"nu":50,"lrn":10,"rev":135}
+[2020-12-12 00:40:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:41:02]	RCC - prev: {"nu":50,"lrn":10,"rev":135}, current: {"nu":50,"lrn":10,"rev":134}
+[2020-12-12 00:41:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:41:09]	RCC - prev: {"nu":50,"lrn":10,"rev":134}, current: {"nu":50,"lrn":12,"rev":133}
+[2020-12-12 00:41:09]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-12 00:41:11]	RCC - prev: {"nu":50,"lrn":12,"rev":133}, current: {"nu":50,"lrn":12,"rev":132}
+[2020-12-12 00:41:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:41:12]	 - Output instruction: {"instType":3}
+[2020-12-12 00:41:14]	RCC - prev: {"nu":50,"lrn":12,"rev":133}, current: {"nu":50,"lrn":12,"rev":132}
+[2020-12-12 00:41:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:41:18]	RCC - prev: {"nu":50,"lrn":12,"rev":132}, current: {"nu":50,"lrn":12,"rev":131}
+[2020-12-12 00:41:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:41:41]	 - Output instruction: {"instType":2}
+[2020-12-12 00:41:43]	RCC - prev: {"nu":50,"lrn":12,"rev":131}, current: {"nu":49,"lrn":12,"rev":131}
+[2020-12-12 00:41:43]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:41:51]	RCC - prev: {"nu":49,"lrn":12,"rev":131}, current: {"nu":49,"lrn":11,"rev":131}
+[2020-12-12 00:41:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:41:54]	RCC - prev: {"nu":49,"lrn":11,"rev":131}, current: {"nu":49,"lrn":11,"rev":130}
+[2020-12-12 00:41:54]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:41:58]	RCC - prev: {"nu":49,"lrn":11,"rev":130}, current: {"nu":48,"lrn":11,"rev":130}
+[2020-12-12 00:41:58]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:42:03]	RCC - prev: {"nu":48,"lrn":11,"rev":130}, current: {"nu":48,"lrn":11,"rev":129}
+[2020-12-12 00:42:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:42:10]	RCC - prev: {"nu":48,"lrn":11,"rev":129}, current: {"nu":48,"lrn":11,"rev":128}
+[2020-12-12 00:42:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:42:19]	RCC - prev: {"nu":48,"lrn":11,"rev":128}, current: {"nu":47,"lrn":12,"rev":128}
+[2020-12-12 00:42:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:42:29]	RCC - prev: {"nu":47,"lrn":12,"rev":128}, current: {"nu":47,"lrn":11,"rev":128}
+[2020-12-12 00:42:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:42:31]	RCC - prev: {"nu":47,"lrn":11,"rev":128}, current: {"nu":47,"lrn":10,"rev":128}
+[2020-12-12 00:42:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:43:28]	RCC - prev: {"nu":47,"lrn":10,"rev":128}, current: {"nu":46,"lrn":12,"rev":128}
+[2020-12-12 00:43:28]	 - Output instruction: {"instType":1,"dy":0,"logType":"new"}
+[2020-12-12 00:43:30]	RCC - prev: {"nu":46,"lrn":12,"rev":128}, current: {"nu":47,"lrn":11,"rev":127}
+[2020-12-12 00:43:30]	 - Output instruction: {"instType":2}
+[2020-12-12 00:43:32]	RCC - prev: {"nu":47,"lrn":11,"rev":127}, current: {"nu":46,"lrn":12,"rev":127}
+[2020-12-12 00:43:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:44:25]	RCC - prev: {"nu":46,"lrn":12,"rev":127}, current: {"nu":46,"lrn":12,"rev":126}
+[2020-12-12 00:44:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:44:38]	RCC - prev: {"nu":46,"lrn":12,"rev":126}, current: {"nu":46,"lrn":13,"rev":126}
+[2020-12-12 00:44:38]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-12 00:44:40]	RCC - prev: {"nu":46,"lrn":13,"rev":126}, current: {"nu":46,"lrn":12,"rev":126}
+[2020-12-12 00:44:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:44:48]	RCC - prev: {"nu":46,"lrn":12,"rev":126}, current: {"nu":46,"lrn":12,"rev":125}
+[2020-12-12 00:44:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:44:51]	RCC - prev: {"nu":46,"lrn":12,"rev":125}, current: {"nu":46,"lrn":11,"rev":125}
+[2020-12-12 00:44:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:45:00]	RCC - prev: {"nu":46,"lrn":11,"rev":125}, current: {"nu":45,"lrn":11,"rev":125}
+[2020-12-12 00:45:00]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:45:10]	RCC - prev: {"nu":45,"lrn":11,"rev":125}, current: {"nu":45,"lrn":11,"rev":124}
+[2020-12-12 00:45:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:45:51]	RCC - prev: {"nu":45,"lrn":11,"rev":124}, current: {"nu":45,"lrn":13,"rev":123}
+[2020-12-12 00:45:51]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-12 00:47:38]	RCC - prev: {"nu":45,"lrn":13,"rev":123}, current: {"nu":45,"lrn":16,"rev":123}
+[2020-12-12 00:47:38]	 - Output instruction: {"instType":1,"dy":-3,"logType":"again"}
+[2020-12-12 00:47:41]	RCC - prev: {"nu":45,"lrn":16,"rev":123}, current: {"nu":45,"lrn":15,"rev":123}
+[2020-12-12 00:47:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:47:45]	RCC - prev: {"nu":45,"lrn":15,"rev":123}, current: {"nu":45,"lrn":15,"rev":122}
+[2020-12-12 00:47:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:47:53]	RCC - prev: {"nu":45,"lrn":15,"rev":122}, current: {"nu":44,"lrn":15,"rev":122}
+[2020-12-12 00:47:53]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:47:56]	RCC - prev: {"nu":44,"lrn":15,"rev":122}, current: {"nu":44,"lrn":14,"rev":122}
+[2020-12-12 00:47:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:48:03]	RCC - prev: {"nu":44,"lrn":14,"rev":122}, current: {"nu":44,"lrn":14,"rev":121}
+[2020-12-12 00:48:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:48:09]	RCC - prev: {"nu":44,"lrn":14,"rev":121}, current: {"nu":43,"lrn":14,"rev":121}
+[2020-12-12 00:48:09]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:48:19]	RCC - prev: {"nu":43,"lrn":14,"rev":121}, current: {"nu":43,"lrn":14,"rev":120}
+[2020-12-12 00:48:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:48:23]	RCC - prev: {"nu":43,"lrn":14,"rev":120}, current: {"nu":43,"lrn":13,"rev":120}
+[2020-12-12 00:48:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:48:25]	RCC - prev: {"nu":43,"lrn":13,"rev":120}, current: {"nu":43,"lrn":12,"rev":120}
+[2020-12-12 00:48:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:48:31]	RCC - prev: {"nu":43,"lrn":12,"rev":120}, current: {"nu":43,"lrn":12,"rev":119}
+[2020-12-12 00:48:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:48:33]	RCC - prev: {"nu":43,"lrn":12,"rev":119}, current: {"nu":43,"lrn":12,"rev":118}
+[2020-12-12 00:48:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:48:40]	RCC - prev: {"nu":43,"lrn":12,"rev":118}, current: {"nu":42,"lrn":13,"rev":118}
+[2020-12-12 00:48:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:48:56]	RCC - prev: {"nu":42,"lrn":13,"rev":118}, current: {"nu":42,"lrn":13,"rev":117}
+[2020-12-12 00:48:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:49:27]	RCC - prev: {"nu":42,"lrn":13,"rev":117}, current: {"nu":42,"lrn":13,"rev":116}
+[2020-12-12 00:49:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:49:31]	RCC - prev: {"nu":42,"lrn":13,"rev":116}, current: {"nu":41,"lrn":14,"rev":116}
+[2020-12-12 00:49:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:50:13]	RCC - prev: {"nu":41,"lrn":14,"rev":116}, current: {"nu":41,"lrn":16,"rev":115}
+[2020-12-12 00:50:13]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-12 00:50:17]	RCC - prev: {"nu":41,"lrn":16,"rev":115}, current: {"nu":41,"lrn":15,"rev":115}
+[2020-12-12 00:50:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:50:46]	RCC - prev: {"nu":41,"lrn":15,"rev":115}, current: {"nu":41,"lrn":15,"rev":113}
+[2020-12-12 00:50:46]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-12 00:50:47]	RCC - prev: {"nu":41,"lrn":15,"rev":113}, current: {"nu":41,"lrn":14,"rev":113}
+[2020-12-12 00:50:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:50:53]	RCC - prev: {"nu":41,"lrn":14,"rev":113}, current: {"nu":41,"lrn":13,"rev":113}
+[2020-12-12 00:50:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:51:02]	RCC - prev: {"nu":41,"lrn":13,"rev":113}, current: {"nu":41,"lrn":12,"rev":113}
+[2020-12-12 00:51:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:51:10]	RCC - prev: {"nu":41,"lrn":12,"rev":113}, current: {"nu":41,"lrn":11,"rev":113}
+[2020-12-12 00:51:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:51:35]	RCC - prev: {"nu":41,"lrn":11,"rev":113}, current: {"nu":41,"lrn":11,"rev":112}
+[2020-12-12 00:51:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:51:48]	RCC - prev: {"nu":41,"lrn":11,"rev":112}, current: {"nu":40,"lrn":11,"rev":112}
+[2020-12-12 00:51:48]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:51:49]	 - Output instruction: {"instType":3}
+[2020-12-12 00:52:18]	RCC - prev: {"nu":41,"lrn":11,"rev":112}, current: {"nu":41,"lrn":12,"rev":112}
+[2020-12-12 00:52:18]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-12 00:52:32]	RCC - prev: {"nu":41,"lrn":12,"rev":112}, current: {"nu":41,"lrn":12,"rev":111}
+[2020-12-12 00:52:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:52:33]	RCC - prev: {"nu":41,"lrn":12,"rev":111}, current: {"nu":41,"lrn":11,"rev":111}
+[2020-12-12 00:52:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:52:35]	RCC - prev: {"nu":41,"lrn":11,"rev":111}, current: {"nu":40,"lrn":11,"rev":111}
+[2020-12-12 00:52:35]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:52:36]	RCC - prev: {"nu":40,"lrn":11,"rev":111}, current: {"nu":40,"lrn":11,"rev":110}
+[2020-12-12 00:52:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:52:38]	RCC - prev: {"nu":40,"lrn":11,"rev":110}, current: {"nu":40,"lrn":11,"rev":109}
+[2020-12-12 00:52:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:52:42]	RCC - prev: {"nu":40,"lrn":11,"rev":109}, current: {"nu":39,"lrn":12,"rev":109}
+[2020-12-12 00:52:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:52:49]	RCC - prev: {"nu":39,"lrn":12,"rev":109}, current: {"nu":39,"lrn":12,"rev":108}
+[2020-12-12 00:52:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:52:58]	RCC - prev: {"nu":39,"lrn":12,"rev":108}, current: {"nu":39,"lrn":13,"rev":107}
+[2020-12-12 00:52:58]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:53:01]	RCC - prev: {"nu":39,"lrn":13,"rev":107}, current: {"nu":38,"lrn":15,"rev":107}
+[2020-12-12 00:53:01]	 - Output instruction: {"instType":1,"dy":0,"logType":"new"}
+[2020-12-12 00:53:04]	RCC - prev: {"nu":38,"lrn":15,"rev":107}, current: {"nu":38,"lrn":15,"rev":106}
+[2020-12-12 00:53:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:53:06]	RCC - prev: {"nu":38,"lrn":15,"rev":106}, current: {"nu":38,"lrn":15,"rev":105}
+[2020-12-12 00:53:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:53:08]	RCC - prev: {"nu":38,"lrn":15,"rev":105}, current: {"nu":37,"lrn":15,"rev":105}
+[2020-12-12 00:53:08]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 00:53:14]	RCC - prev: {"nu":37,"lrn":15,"rev":105}, current: {"nu":37,"lrn":15,"rev":104}
+[2020-12-12 00:53:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:53:24]	RCC - prev: {"nu":37,"lrn":15,"rev":104}, current: {"nu":37,"lrn":15,"rev":103}
+[2020-12-12 00:53:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 00:53:29]	RCC - prev: {"nu":37,"lrn":15,"rev":103}, current: {"nu":36,"lrn":16,"rev":103}
+[2020-12-12 00:53:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 00:54:41]	RCC - prev: {"nu":36,"lrn":16,"rev":103}, current: {"nu":36,"lrn":17,"rev":102}
+[2020-12-12 00:54:41]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 00:54:42]	RCC - prev: {"nu":36,"lrn":17,"rev":102}, current: {"nu":36,"lrn":16,"rev":102}
+[2020-12-12 00:54:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 00:54:48]	RCC - prev: {"nu":36,"lrn":16,"rev":102}, current: {"nu":30,"lrn":16,"rev":99}
+[2020-12-12 00:54:48]	 - Output instruction: {"instType":2}
+[2020-12-12 22:29:14]	 - Output instruction: {"instType":0}
+[2020-12-12 22:29:15]	RCC - prev: {"nu":74,"lrn":20,"rev":300}, current: {"nu":74,"lrn":19,"rev":300}
+[2020-12-12 22:29:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:29:16]	RCC - prev: {"nu":74,"lrn":19,"rev":300}, current: {"nu":74,"lrn":18,"rev":300}
+[2020-12-12 22:29:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:29:38]	RCC - prev: {"nu":74,"lrn":18,"rev":300}, current: {"nu":75,"lrn":11,"rev":300}
+[2020-12-12 22:29:38]	 - Output instruction: {"instType":1,"dy":5,"logType":"unknown"}
+[2020-12-12 22:29:44]	RCC - prev: {"nu":75,"lrn":11,"rev":300}, current: {"nu":75,"lrn":10,"rev":300}
+[2020-12-12 22:29:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:29:45]	RCC - prev: {"nu":75,"lrn":10,"rev":300}, current: {"nu":75,"lrn":9,"rev":300}
+[2020-12-12 22:29:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:29:49]	RCC - prev: {"nu":75,"lrn":9,"rev":300}, current: {"nu":75,"lrn":8,"rev":300}
+[2020-12-12 22:29:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:30:14]	RCC - prev: {"nu":75,"lrn":8,"rev":300}, current: {"nu":75,"lrn":7,"rev":300}
+[2020-12-12 22:30:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:30:16]	RCC - prev: {"nu":75,"lrn":7,"rev":300}, current: {"nu":75,"lrn":6,"rev":300}
+[2020-12-12 22:30:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:30:17]	RCC - prev: {"nu":75,"lrn":6,"rev":300}, current: {"nu":75,"lrn":5,"rev":300}
+[2020-12-12 22:30:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:30:19]	RCC - prev: {"nu":75,"lrn":5,"rev":300}, current: {"nu":75,"lrn":4,"rev":300}
+[2020-12-12 22:30:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:31:13]	RCC - prev: {"nu":75,"lrn":4,"rev":300}, current: {"nu":75,"lrn":3,"rev":300}
+[2020-12-12 22:31:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:31:16]	RCC - prev: {"nu":75,"lrn":3,"rev":300}, current: {"nu":75,"lrn":2,"rev":300}
+[2020-12-12 22:31:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:31:19]	RCC - prev: {"nu":75,"lrn":2,"rev":300}, current: {"nu":75,"lrn":1,"rev":300}
+[2020-12-12 22:31:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:31:21]	RCC - prev: {"nu":75,"lrn":1,"rev":300}, current: {"nu":75,"lrn":0,"rev":300}
+[2020-12-12 22:31:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 22:31:22]	RCC - prev: {"nu":75,"lrn":0,"rev":300}, current: {"nu":75,"lrn":0,"rev":299}
+[2020-12-12 22:31:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:31:23]	RCC - prev: {"nu":75,"lrn":0,"rev":299}, current: {"nu":74,"lrn":0,"rev":299}
+[2020-12-12 22:31:23]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 22:31:25]	RCC - prev: {"nu":74,"lrn":0,"rev":299}, current: {"nu":74,"lrn":0,"rev":298}
+[2020-12-12 22:31:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:31:36]	RCC - prev: {"nu":74,"lrn":0,"rev":298}, current: {"nu":74,"lrn":0,"rev":297}
+[2020-12-12 22:31:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:31:37]	RCC - prev: {"nu":74,"lrn":0,"rev":297}, current: {"nu":74,"lrn":0,"rev":296}
+[2020-12-12 22:31:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:32:59]	RCC - prev: {"nu":74,"lrn":0,"rev":296}, current: {"nu":74,"lrn":1,"rev":295}
+[2020-12-12 22:32:59]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 22:33:02]	RCC - prev: {"nu":74,"lrn":1,"rev":295}, current: {"nu":73,"lrn":1,"rev":295}
+[2020-12-12 22:33:02]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 22:33:04]	RCC - prev: {"nu":73,"lrn":1,"rev":295}, current: {"nu":73,"lrn":1,"rev":294}
+[2020-12-12 22:33:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:33:18]	RCC - prev: {"nu":73,"lrn":1,"rev":294}, current: {"nu":73,"lrn":1,"rev":293}
+[2020-12-12 22:33:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:33:19]	RCC - prev: {"nu":73,"lrn":1,"rev":293}, current: {"nu":73,"lrn":1,"rev":292}
+[2020-12-12 22:33:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:33:21]	RCC - prev: {"nu":73,"lrn":1,"rev":292}, current: {"nu":73,"lrn":1,"rev":291}
+[2020-12-12 22:33:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:33:23]	RCC - prev: {"nu":73,"lrn":1,"rev":291}, current: {"nu":72,"lrn":1,"rev":291}
+[2020-12-12 22:33:23]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 22:33:25]	RCC - prev: {"nu":72,"lrn":1,"rev":291}, current: {"nu":72,"lrn":1,"rev":290}
+[2020-12-12 22:33:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:36:21]	RCC - prev: {"nu":72,"lrn":1,"rev":290}, current: {"nu":72,"lrn":3,"rev":289}
+[2020-12-12 22:36:21]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-12 22:36:22]	RCC - prev: {"nu":72,"lrn":3,"rev":289}, current: {"nu":72,"lrn":3,"rev":288}
+[2020-12-12 22:36:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:36:24]	RCC - prev: {"nu":72,"lrn":3,"rev":288}, current: {"nu":72,"lrn":3,"rev":287}
+[2020-12-12 22:36:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 22:37:16]	RCC - prev: {"nu":72,"lrn":3,"rev":287}, current: {"nu":55,"lrn":4,"rev":261}
+[2020-12-12 22:37:16]	 - Output instruction: {"instType":2}
+[2020-12-12 22:37:19]	RCC - prev: {"nu":55,"lrn":4,"rev":261}, current: {"nu":55,"lrn":4,"rev":261}
+[2020-12-12 22:37:19]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 22:39:05]	RCC - prev: {"nu":55,"lrn":4,"rev":261}, current: {"nu":56,"lrn":5,"rev":261}
+[2020-12-12 22:39:05]	 - Output instruction: {"instType":1,"dy":-3,"logType":"unknown"}
+[2020-12-12 22:39:32]	RCC - prev: {"nu":56,"lrn":5,"rev":261}, current: {"nu":55,"lrn":5,"rev":261}
+[2020-12-12 22:39:32]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:04:23]	RCC - prev: {"nu":55,"lrn":5,"rev":261}, current: {"nu":55,"lrn":5,"rev":260}
+[2020-12-12 23:04:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:04:24]	RCC - prev: {"nu":55,"lrn":5,"rev":260}, current: {"nu":55,"lrn":4,"rev":260}
+[2020-12-12 23:04:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:04:27]	RCC - prev: {"nu":55,"lrn":4,"rev":260}, current: {"nu":55,"lrn":3,"rev":260}
+[2020-12-12 23:04:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:04:35]	RCC - prev: {"nu":55,"lrn":3,"rev":260}, current: {"nu":55,"lrn":3,"rev":258}
+[2020-12-12 23:04:35]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-12 23:05:05]	RCC - prev: {"nu":55,"lrn":3,"rev":258}, current: {"nu":61,"lrn":3,"rev":258}
+[2020-12-12 23:05:05]	 - Output instruction: {"instType":1,"dy":-12,"logType":"unknown"}
+[2020-12-12 23:05:07]	RCC - prev: {"nu":61,"lrn":3,"rev":258}, current: {"nu":61,"lrn":2,"rev":258}
+[2020-12-12 23:05:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:05:54]	 - Output instruction: {"instType":2}
+[2020-12-12 23:06:02]	RCC - prev: {"nu":61,"lrn":2,"rev":258}, current: {"nu":62,"lrn":2,"rev":258}
+[2020-12-12 23:06:02]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-12 23:06:04]	RCC - prev: {"nu":62,"lrn":2,"rev":258}, current: {"nu":62,"lrn":1,"rev":258}
+[2020-12-12 23:06:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:06:07]	RCC - prev: {"nu":62,"lrn":1,"rev":258}, current: {"nu":62,"lrn":0,"rev":258}
+[2020-12-12 23:06:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:07:31]	RCC - prev: {"nu":62,"lrn":0,"rev":258}, current: {"nu":62,"lrn":0,"rev":258}
+[2020-12-12 23:07:31]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:07:58]	RCC - prev: {"nu":62,"lrn":0,"rev":258}, current: {"nu":62,"lrn":0,"rev":258}
+[2020-12-12 23:07:58]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:08:30]	RCC - prev: {"nu":62,"lrn":0,"rev":258}, current: {"nu":63,"lrn":0,"rev":258}
+[2020-12-12 23:08:30]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-12 23:08:31]	 - Output instruction: {"instType":3}
+[2020-12-12 23:08:32]	RCC - prev: {"nu":62,"lrn":0,"rev":258}, current: {"nu":62,"lrn":0,"rev":257}
+[2020-12-12 23:08:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:08:36]	RCC - prev: {"nu":62,"lrn":0,"rev":257}, current: {"nu":62,"lrn":0,"rev":256}
+[2020-12-12 23:08:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:08:38]	RCC - prev: {"nu":62,"lrn":0,"rev":256}, current: {"nu":62,"lrn":0,"rev":255}
+[2020-12-12 23:08:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:09:52]	RCC - prev: {"nu":62,"lrn":0,"rev":255}, current: {"nu":62,"lrn":0,"rev":254}
+[2020-12-12 23:09:52]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:10:06]	RCC - prev: {"nu":62,"lrn":0,"rev":254}, current: {"nu":61,"lrn":0,"rev":254}
+[2020-12-12 23:10:06]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:10:09]	RCC - prev: {"nu":61,"lrn":0,"rev":254}, current: {"nu":61,"lrn":0,"rev":253}
+[2020-12-12 23:10:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:10:10]	RCC - prev: {"nu":61,"lrn":0,"rev":253}, current: {"nu":61,"lrn":0,"rev":252}
+[2020-12-12 23:10:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:10:49]	RCC - prev: {"nu":61,"lrn":0,"rev":252}, current: {"nu":61,"lrn":0,"rev":251}
+[2020-12-12 23:10:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:10:54]	RCC - prev: {"nu":61,"lrn":0,"rev":251}, current: {"nu":61,"lrn":1,"rev":250}
+[2020-12-12 23:10:54]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-12 23:10:56]	RCC - prev: {"nu":61,"lrn":1,"rev":250}, current: {"nu":60,"lrn":1,"rev":250}
+[2020-12-12 23:10:56]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:10:57]	RCC - prev: {"nu":60,"lrn":1,"rev":250}, current: {"nu":60,"lrn":1,"rev":249}
+[2020-12-12 23:10:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:10:59]	RCC - prev: {"nu":60,"lrn":1,"rev":249}, current: {"nu":60,"lrn":1,"rev":248}
+[2020-12-12 23:10:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:01]	RCC - prev: {"nu":60,"lrn":1,"rev":248}, current: {"nu":60,"lrn":1,"rev":247}
+[2020-12-12 23:11:01]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:12]	RCC - prev: {"nu":60,"lrn":1,"rev":247}, current: {"nu":60,"lrn":1,"rev":246}
+[2020-12-12 23:11:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:13]	RCC - prev: {"nu":60,"lrn":1,"rev":246}, current: {"nu":59,"lrn":1,"rev":246}
+[2020-12-12 23:11:13]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:11:17]	RCC - prev: {"nu":59,"lrn":1,"rev":246}, current: {"nu":59,"lrn":1,"rev":245}
+[2020-12-12 23:11:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:18]	RCC - prev: {"nu":59,"lrn":1,"rev":245}, current: {"nu":59,"lrn":1,"rev":244}
+[2020-12-12 23:11:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:21]	RCC - prev: {"nu":59,"lrn":1,"rev":244}, current: {"nu":59,"lrn":1,"rev":243}
+[2020-12-12 23:11:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:23]	RCC - prev: {"nu":59,"lrn":1,"rev":243}, current: {"nu":59,"lrn":1,"rev":242}
+[2020-12-12 23:11:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:29]	RCC - prev: {"nu":59,"lrn":1,"rev":242}, current: {"nu":58,"lrn":1,"rev":242}
+[2020-12-12 23:11:29]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:11:31]	RCC - prev: {"nu":58,"lrn":1,"rev":242}, current: {"nu":58,"lrn":1,"rev":241}
+[2020-12-12 23:11:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:11:37]	RCC - prev: {"nu":58,"lrn":1,"rev":241}, current: {"nu":58,"lrn":1,"rev":240}
+[2020-12-12 23:11:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:14]	RCC - prev: {"nu":58,"lrn":1,"rev":240}, current: {"nu":58,"lrn":1,"rev":239}
+[2020-12-12 23:12:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:24]	RCC - prev: {"nu":58,"lrn":1,"rev":239}, current: {"nu":58,"lrn":1,"rev":238}
+[2020-12-12 23:12:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:25]	RCC - prev: {"nu":58,"lrn":1,"rev":238}, current: {"nu":57,"lrn":1,"rev":238}
+[2020-12-12 23:12:25]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:12:27]	RCC - prev: {"nu":57,"lrn":1,"rev":238}, current: {"nu":57,"lrn":1,"rev":237}
+[2020-12-12 23:12:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:28]	RCC - prev: {"nu":57,"lrn":1,"rev":237}, current: {"nu":57,"lrn":1,"rev":236}
+[2020-12-12 23:12:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:29]	RCC - prev: {"nu":57,"lrn":1,"rev":236}, current: {"nu":57,"lrn":1,"rev":235}
+[2020-12-12 23:12:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:31]	RCC - prev: {"nu":57,"lrn":1,"rev":235}, current: {"nu":57,"lrn":1,"rev":234}
+[2020-12-12 23:12:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:12:38]	RCC - prev: {"nu":57,"lrn":1,"rev":234}, current: {"nu":56,"lrn":2,"rev":234}
+[2020-12-12 23:12:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 23:12:41]	RCC - prev: {"nu":56,"lrn":2,"rev":234}, current: {"nu":56,"lrn":2,"rev":233}
+[2020-12-12 23:12:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:27:14]	RCC - prev: {"nu":56,"lrn":2,"rev":233}, current: {"nu":56,"lrn":9,"rev":232}
+[2020-12-12 23:27:14]	 - Output instruction: {"instType":1,"dy":-6,"logType":"rev-again"}
+[2020-12-12 23:27:18]	RCC - prev: {"nu":56,"lrn":9,"rev":232}, current: {"nu":56,"lrn":9,"rev":232}
+[2020-12-12 23:27:18]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:27:20]	RCC - prev: {"nu":56,"lrn":9,"rev":232}, current: {"nu":56,"lrn":8,"rev":232}
+[2020-12-12 23:27:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:28:54]	RCC - prev: {"nu":56,"lrn":8,"rev":232}, current: {"nu":56,"lrn":7,"rev":232}
+[2020-12-12 23:28:54]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:28:56]	RCC - prev: {"nu":56,"lrn":7,"rev":232}, current: {"nu":56,"lrn":6,"rev":232}
+[2020-12-12 23:28:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:28:59]	RCC - prev: {"nu":56,"lrn":6,"rev":232}, current: {"nu":56,"lrn":5,"rev":232}
+[2020-12-12 23:28:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:29:10]	RCC - prev: {"nu":56,"lrn":5,"rev":232}, current: {"nu":56,"lrn":4,"rev":232}
+[2020-12-12 23:29:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:29:15]	RCC - prev: {"nu":56,"lrn":4,"rev":232}, current: {"nu":56,"lrn":4,"rev":232}
+[2020-12-12 23:29:15]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:30:25]	RCC - prev: {"nu":56,"lrn":4,"rev":232}, current: {"nu":56,"lrn":4,"rev":232}
+[2020-12-12 23:30:25]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:30:32]	RCC - prev: {"nu":56,"lrn":4,"rev":232}, current: {"nu":56,"lrn":3,"rev":232}
+[2020-12-12 23:30:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:30:34]	RCC - prev: {"nu":56,"lrn":3,"rev":232}, current: {"nu":56,"lrn":2,"rev":232}
+[2020-12-12 23:30:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:30:35]	RCC - prev: {"nu":56,"lrn":2,"rev":232}, current: {"nu":56,"lrn":2,"rev":231}
+[2020-12-12 23:30:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:30:43]	RCC - prev: {"nu":56,"lrn":2,"rev":231}, current: {"nu":56,"lrn":2,"rev":230}
+[2020-12-12 23:30:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:30:44]	RCC - prev: {"nu":56,"lrn":2,"rev":230}, current: {"nu":55,"lrn":2,"rev":230}
+[2020-12-12 23:30:44]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:30:47]	RCC - prev: {"nu":55,"lrn":2,"rev":230}, current: {"nu":55,"lrn":2,"rev":229}
+[2020-12-12 23:30:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:30:51]	RCC - prev: {"nu":55,"lrn":2,"rev":229}, current: {"nu":55,"lrn":2,"rev":228}
+[2020-12-12 23:30:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:30]	RCC - prev: {"nu":55,"lrn":2,"rev":228}, current: {"nu":55,"lrn":2,"rev":227}
+[2020-12-12 23:33:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:31]	RCC - prev: {"nu":55,"lrn":2,"rev":227}, current: {"nu":55,"lrn":1,"rev":227}
+[2020-12-12 23:33:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:33:33]	RCC - prev: {"nu":55,"lrn":1,"rev":227}, current: {"nu":55,"lrn":0,"rev":227}
+[2020-12-12 23:33:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:33:36]	RCC - prev: {"nu":55,"lrn":0,"rev":227}, current: {"nu":55,"lrn":0,"rev":226}
+[2020-12-12 23:33:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:42]	RCC - prev: {"nu":55,"lrn":0,"rev":226}, current: {"nu":55,"lrn":0,"rev":225}
+[2020-12-12 23:33:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:44]	RCC - prev: {"nu":55,"lrn":0,"rev":225}, current: {"nu":55,"lrn":0,"rev":224}
+[2020-12-12 23:33:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:46]	RCC - prev: {"nu":55,"lrn":0,"rev":224}, current: {"nu":55,"lrn":0,"rev":223}
+[2020-12-12 23:33:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:33:47]	RCC - prev: {"nu":55,"lrn":0,"rev":223}, current: {"nu":54,"lrn":0,"rev":223}
+[2020-12-12 23:33:47]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:34:07]	RCC - prev: {"nu":54,"lrn":0,"rev":223}, current: {"nu":54,"lrn":0,"rev":222}
+[2020-12-12 23:34:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:26]	RCC - prev: {"nu":54,"lrn":0,"rev":222}, current: {"nu":54,"lrn":0,"rev":221}
+[2020-12-12 23:34:26]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:31]	RCC - prev: {"nu":54,"lrn":0,"rev":221}, current: {"nu":54,"lrn":0,"rev":220}
+[2020-12-12 23:34:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:32]	RCC - prev: {"nu":54,"lrn":0,"rev":220}, current: {"nu":54,"lrn":0,"rev":219}
+[2020-12-12 23:34:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:33]	RCC - prev: {"nu":54,"lrn":0,"rev":219}, current: {"nu":53,"lrn":0,"rev":219}
+[2020-12-12 23:34:33]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:34:35]	RCC - prev: {"nu":53,"lrn":0,"rev":219}, current: {"nu":53,"lrn":0,"rev":218}
+[2020-12-12 23:34:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:48]	RCC - prev: {"nu":53,"lrn":0,"rev":218}, current: {"nu":53,"lrn":0,"rev":217}
+[2020-12-12 23:34:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:50]	RCC - prev: {"nu":53,"lrn":0,"rev":217}, current: {"nu":53,"lrn":0,"rev":216}
+[2020-12-12 23:34:50]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:52]	RCC - prev: {"nu":53,"lrn":0,"rev":216}, current: {"nu":53,"lrn":0,"rev":215}
+[2020-12-12 23:34:52]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:34:53]	RCC - prev: {"nu":53,"lrn":0,"rev":215}, current: {"nu":52,"lrn":0,"rev":215}
+[2020-12-12 23:34:53]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:34:58]	RCC - prev: {"nu":52,"lrn":0,"rev":215}, current: {"nu":52,"lrn":0,"rev":214}
+[2020-12-12 23:34:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:35:11]	RCC - prev: {"nu":52,"lrn":0,"rev":214}, current: {"nu":52,"lrn":0,"rev":213}
+[2020-12-12 23:35:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:35:24]	RCC - prev: {"nu":52,"lrn":0,"rev":213}, current: {"nu":52,"lrn":0,"rev":212}
+[2020-12-12 23:35:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:40:06]	RCC - prev: {"nu":52,"lrn":0,"rev":212}, current: {"nu":52,"lrn":10,"rev":211}
+[2020-12-12 23:40:06]	 - Output instruction: {"instType":1,"dy":-9,"logType":"rev-again"}
+[2020-12-12 23:40:11]	RCC - prev: {"nu":52,"lrn":10,"rev":211}, current: {"nu":51,"lrn":10,"rev":211}
+[2020-12-12 23:40:11]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:41:06]	RCC - prev: {"nu":51,"lrn":10,"rev":211}, current: {"nu":14,"lrn":10,"rev":202}
+[2020-12-12 23:41:06]	 - Output instruction: {"instType":2}
+[2020-12-12 23:41:06]	RCC - prev: {"nu":14,"lrn":10,"rev":202}, current: {"nu":14,"lrn":10,"rev":201}
+[2020-12-12 23:41:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:08]	RCC - prev: {"nu":14,"lrn":10,"rev":201}, current: {"nu":14,"lrn":10,"rev":200}
+[2020-12-12 23:41:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:10]	RCC - prev: {"nu":14,"lrn":10,"rev":200}, current: {"nu":14,"lrn":10,"rev":199}
+[2020-12-12 23:41:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:12]	RCC - prev: {"nu":14,"lrn":10,"rev":199}, current: {"nu":14,"lrn":10,"rev":198}
+[2020-12-12 23:41:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:19]	RCC - prev: {"nu":14,"lrn":10,"rev":198}, current: {"nu":14,"lrn":10,"rev":197}
+[2020-12-12 23:41:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:23]	RCC - prev: {"nu":14,"lrn":10,"rev":197}, current: {"nu":14,"lrn":10,"rev":196}
+[2020-12-12 23:41:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:25]	RCC - prev: {"nu":14,"lrn":10,"rev":196}, current: {"nu":14,"lrn":10,"rev":195}
+[2020-12-12 23:41:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:38]	RCC - prev: {"nu":14,"lrn":10,"rev":195}, current: {"nu":14,"lrn":10,"rev":194}
+[2020-12-12 23:41:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:57]	RCC - prev: {"nu":14,"lrn":10,"rev":194}, current: {"nu":14,"lrn":10,"rev":193}
+[2020-12-12 23:41:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:41:59]	RCC - prev: {"nu":14,"lrn":10,"rev":193}, current: {"nu":13,"lrn":10,"rev":193}
+[2020-12-12 23:41:59]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-12 23:42:17]	RCC - prev: {"nu":13,"lrn":10,"rev":193}, current: {"nu":13,"lrn":10,"rev":192}
+[2020-12-12 23:42:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:42:25]	RCC - prev: {"nu":13,"lrn":10,"rev":192}, current: {"nu":13,"lrn":10,"rev":191}
+[2020-12-12 23:42:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:42:28]	RCC - prev: {"nu":13,"lrn":10,"rev":191}, current: {"nu":13,"lrn":10,"rev":190}
+[2020-12-12 23:42:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:42:30]	RCC - prev: {"nu":13,"lrn":10,"rev":190}, current: {"nu":13,"lrn":10,"rev":189}
+[2020-12-12 23:42:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:42:32]	RCC - prev: {"nu":13,"lrn":10,"rev":189}, current: {"nu":13,"lrn":10,"rev":188}
+[2020-12-12 23:42:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:42:35]	RCC - prev: {"nu":13,"lrn":10,"rev":188}, current: {"nu":13,"lrn":10,"rev":187}
+[2020-12-12 23:42:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:50:39]	RCC - prev: {"nu":13,"lrn":10,"rev":187}, current: {"nu":11,"lrn":11,"rev":184}
+[2020-12-12 23:50:39]	 - Output instruction: {"instType":2}
+[2020-12-12 23:51:02]	RCC - prev: {"nu":11,"lrn":11,"rev":184}, current: {"nu":11,"lrn":10,"rev":184}
+[2020-12-12 23:51:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:05]	RCC - prev: {"nu":11,"lrn":10,"rev":184}, current: {"nu":11,"lrn":9,"rev":184}
+[2020-12-12 23:51:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:08]	RCC - prev: {"nu":11,"lrn":9,"rev":184}, current: {"nu":11,"lrn":8,"rev":184}
+[2020-12-12 23:51:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:11]	RCC - prev: {"nu":11,"lrn":8,"rev":184}, current: {"nu":11,"lrn":7,"rev":184}
+[2020-12-12 23:51:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:13]	RCC - prev: {"nu":11,"lrn":7,"rev":184}, current: {"nu":11,"lrn":6,"rev":184}
+[2020-12-12 23:51:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:21]	RCC - prev: {"nu":11,"lrn":6,"rev":184}, current: {"nu":11,"lrn":5,"rev":184}
+[2020-12-12 23:51:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:51:22]	RCC - prev: {"nu":11,"lrn":5,"rev":184}, current: {"nu":11,"lrn":5,"rev":183}
+[2020-12-12 23:51:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:51:23]	RCC - prev: {"nu":11,"lrn":5,"rev":183}, current: {"nu":11,"lrn":5,"rev":182}
+[2020-12-12 23:51:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:51:24]	RCC - prev: {"nu":11,"lrn":5,"rev":182}, current: {"nu":11,"lrn":5,"rev":181}
+[2020-12-12 23:51:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:51:27]	RCC - prev: {"nu":11,"lrn":5,"rev":181}, current: {"nu":10,"lrn":6,"rev":181}
+[2020-12-12 23:51:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-12 23:51:29]	RCC - prev: {"nu":10,"lrn":6,"rev":181}, current: {"nu":10,"lrn":6,"rev":180}
+[2020-12-12 23:51:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:51:33]	RCC - prev: {"nu":10,"lrn":6,"rev":180}, current: {"nu":10,"lrn":6,"rev":179}
+[2020-12-12 23:51:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:52:10]	RCC - prev: {"nu":10,"lrn":6,"rev":179}, current: {"nu":10,"lrn":6,"rev":178}
+[2020-12-12 23:52:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:52:29]	RCC - prev: {"nu":10,"lrn":6,"rev":178}, current: {"nu":10,"lrn":6,"rev":177}
+[2020-12-12 23:52:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:52:31]	RCC - prev: {"nu":10,"lrn":6,"rev":177}, current: {"nu":10,"lrn":6,"rev":176}
+[2020-12-12 23:52:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:53:47]	RCC - prev: {"nu":10,"lrn":6,"rev":176}, current: {"nu":10,"lrn":6,"rev":175}
+[2020-12-12 23:53:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:53:49]	RCC - prev: {"nu":10,"lrn":6,"rev":175}, current: {"nu":10,"lrn":6,"rev":174}
+[2020-12-12 23:53:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:53:53]	RCC - prev: {"nu":10,"lrn":6,"rev":174}, current: {"nu":10,"lrn":6,"rev":173}
+[2020-12-12 23:53:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:53:58]	RCC - prev: {"nu":10,"lrn":6,"rev":173}, current: {"nu":10,"lrn":6,"rev":172}
+[2020-12-12 23:53:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:53:59]	RCC - prev: {"nu":10,"lrn":6,"rev":172}, current: {"nu":10,"lrn":5,"rev":172}
+[2020-12-12 23:53:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:54:01]	RCC - prev: {"nu":10,"lrn":5,"rev":172}, current: {"nu":10,"lrn":5,"rev":171}
+[2020-12-12 23:54:01]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:02]	RCC - prev: {"nu":10,"lrn":5,"rev":171}, current: {"nu":10,"lrn":5,"rev":170}
+[2020-12-12 23:54:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:08]	RCC - prev: {"nu":10,"lrn":5,"rev":170}, current: {"nu":10,"lrn":5,"rev":169}
+[2020-12-12 23:54:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:11]	RCC - prev: {"nu":10,"lrn":5,"rev":169}, current: {"nu":10,"lrn":5,"rev":168}
+[2020-12-12 23:54:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:13]	RCC - prev: {"nu":10,"lrn":5,"rev":168}, current: {"nu":10,"lrn":5,"rev":167}
+[2020-12-12 23:54:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:19]	RCC - prev: {"nu":10,"lrn":5,"rev":167}, current: {"nu":10,"lrn":5,"rev":166}
+[2020-12-12 23:54:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:54:57]	RCC - prev: {"nu":10,"lrn":5,"rev":166}, current: {"nu":10,"lrn":5,"rev":164}
+[2020-12-12 23:54:57]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-12 23:55:10]	RCC - prev: {"nu":10,"lrn":5,"rev":164}, current: {"nu":10,"lrn":5,"rev":164}
+[2020-12-12 23:55:10]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-12 23:55:12]	RCC - prev: {"nu":10,"lrn":5,"rev":164}, current: {"nu":10,"lrn":5,"rev":163}
+[2020-12-12 23:55:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:14]	RCC - prev: {"nu":10,"lrn":5,"rev":163}, current: {"nu":10,"lrn":5,"rev":162}
+[2020-12-12 23:55:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:18]	RCC - prev: {"nu":10,"lrn":5,"rev":162}, current: {"nu":10,"lrn":5,"rev":161}
+[2020-12-12 23:55:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:34]	RCC - prev: {"nu":10,"lrn":5,"rev":161}, current: {"nu":10,"lrn":5,"rev":160}
+[2020-12-12 23:55:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:47]	RCC - prev: {"nu":10,"lrn":5,"rev":160}, current: {"nu":10,"lrn":5,"rev":159}
+[2020-12-12 23:55:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:49]	RCC - prev: {"nu":10,"lrn":5,"rev":159}, current: {"nu":10,"lrn":5,"rev":158}
+[2020-12-12 23:55:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:54]	RCC - prev: {"nu":10,"lrn":5,"rev":158}, current: {"nu":10,"lrn":4,"rev":158}
+[2020-12-12 23:55:54]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-12 23:55:57]	RCC - prev: {"nu":10,"lrn":4,"rev":158}, current: {"nu":10,"lrn":4,"rev":157}
+[2020-12-12 23:55:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:55:59]	RCC - prev: {"nu":10,"lrn":4,"rev":157}, current: {"nu":10,"lrn":4,"rev":156}
+[2020-12-12 23:55:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-12 23:56:02]	RCC - prev: {"nu":10,"lrn":4,"rev":156}, current: {"nu":10,"lrn":4,"rev":155}
+[2020-12-12 23:56:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:00:28]	RCC - prev: {"nu":10,"lrn":4,"rev":155}, current: {"nu":10,"lrn":5,"rev":154}
+[2020-12-13 00:00:28]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 00:00:29]	RCC - prev: {"nu":10,"lrn":5,"rev":154}, current: {"nu":10,"lrn":4,"rev":154}
+[2020-12-13 00:00:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:00:30]	RCC - prev: {"nu":10,"lrn":4,"rev":154}, current: {"nu":10,"lrn":3,"rev":154}
+[2020-12-13 00:00:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:00:32]	RCC - prev: {"nu":10,"lrn":3,"rev":154}, current: {"nu":10,"lrn":2,"rev":154}
+[2020-12-13 00:00:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:00:33]	RCC - prev: {"nu":10,"lrn":2,"rev":154}, current: {"nu":10,"lrn":1,"rev":154}
+[2020-12-13 00:00:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:00:36]	RCC - prev: {"nu":10,"lrn":1,"rev":154}, current: {"nu":9,"lrn":1,"rev":154}
+[2020-12-13 00:00:36]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 00:00:39]	RCC - prev: {"nu":9,"lrn":1,"rev":154}, current: {"nu":9,"lrn":1,"rev":153}
+[2020-12-13 00:00:39]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:19]	RCC - prev: {"nu":9,"lrn":1,"rev":153}, current: {"nu":9,"lrn":1,"rev":152}
+[2020-12-13 00:01:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:29]	RCC - prev: {"nu":9,"lrn":1,"rev":152}, current: {"nu":9,"lrn":1,"rev":151}
+[2020-12-13 00:01:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:32]	RCC - prev: {"nu":9,"lrn":1,"rev":151}, current: {"nu":9,"lrn":1,"rev":150}
+[2020-12-13 00:01:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:33]	RCC - prev: {"nu":9,"lrn":1,"rev":150}, current: {"nu":9,"lrn":1,"rev":149}
+[2020-12-13 00:01:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:34]	RCC - prev: {"nu":9,"lrn":1,"rev":149}, current: {"nu":9,"lrn":1,"rev":148}
+[2020-12-13 00:01:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:36]	RCC - prev: {"nu":9,"lrn":1,"rev":148}, current: {"nu":9,"lrn":1,"rev":147}
+[2020-12-13 00:01:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:01:41]	RCC - prev: {"nu":9,"lrn":1,"rev":147}, current: {"nu":9,"lrn":1,"rev":146}
+[2020-12-13 00:01:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:11:19]	RCC - prev: {"nu":9,"lrn":1,"rev":146}, current: {"nu":9,"lrn":2,"rev":145}
+[2020-12-13 00:11:19]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 00:11:21]	RCC - prev: {"nu":9,"lrn":2,"rev":145}, current: {"nu":9,"lrn":1,"rev":145}
+[2020-12-13 00:11:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:11:37]	RCC - prev: {"nu":9,"lrn":1,"rev":145}, current: {"nu":9,"lrn":1,"rev":144}
+[2020-12-13 00:11:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:11:41]	RCC - prev: {"nu":9,"lrn":1,"rev":144}, current: {"nu":9,"lrn":1,"rev":143}
+[2020-12-13 00:11:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:11:48]	RCC - prev: {"nu":9,"lrn":1,"rev":143}, current: {"nu":9,"lrn":1,"rev":142}
+[2020-12-13 00:11:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:12:17]	RCC - prev: {"nu":9,"lrn":1,"rev":142}, current: {"nu":9,"lrn":1,"rev":141}
+[2020-12-13 00:12:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:12:22]	RCC - prev: {"nu":9,"lrn":1,"rev":141}, current: {"nu":9,"lrn":1,"rev":140}
+[2020-12-13 00:12:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:12:29]	RCC - prev: {"nu":9,"lrn":1,"rev":140}, current: {"nu":9,"lrn":1,"rev":139}
+[2020-12-13 00:12:29]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:12:30]	RCC - prev: {"nu":9,"lrn":1,"rev":139}, current: {"nu":8,"lrn":1,"rev":139}
+[2020-12-13 00:12:30]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 00:12:31]	RCC - prev: {"nu":8,"lrn":1,"rev":139}, current: {"nu":8,"lrn":1,"rev":138}
+[2020-12-13 00:12:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:13:02]	RCC - prev: {"nu":8,"lrn":1,"rev":138}, current: {"nu":8,"lrn":1,"rev":137}
+[2020-12-13 00:13:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:13:04]	RCC - prev: {"nu":8,"lrn":1,"rev":137}, current: {"nu":8,"lrn":1,"rev":136}
+[2020-12-13 00:13:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:18:39]	RCC - prev: {"nu":8,"lrn":1,"rev":136}, current: {"nu":8,"lrn":2,"rev":135}
+[2020-12-13 00:18:39]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 00:19:16]	RCC - prev: {"nu":8,"lrn":2,"rev":135}, current: {"nu":8,"lrn":1,"rev":135}
+[2020-12-13 00:19:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:19:17]	RCC - prev: {"nu":8,"lrn":1,"rev":135}, current: {"nu":8,"lrn":1,"rev":134}
+[2020-12-13 00:19:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:19:21]	RCC - prev: {"nu":8,"lrn":1,"rev":134}, current: {"nu":8,"lrn":1,"rev":133}
+[2020-12-13 00:19:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:19:27]	RCC - prev: {"nu":8,"lrn":1,"rev":133}, current: {"nu":8,"lrn":1,"rev":132}
+[2020-12-13 00:19:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:19:28]	RCC - prev: {"nu":8,"lrn":1,"rev":132}, current: {"nu":8,"lrn":1,"rev":128}
+[2020-12-13 00:19:28]	 - Output instruction: {"instType":1,"dy":4,"logType":"rev-good"}
+[2020-12-13 00:19:39]	 - Output instruction: {"instType":2}
+[2020-12-13 00:19:46]	RCC - prev: {"nu":8,"lrn":1,"rev":128}, current: {"nu":8,"lrn":1,"rev":127}
+[2020-12-13 00:19:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:20:09]	RCC - prev: {"nu":8,"lrn":1,"rev":127}, current: {"nu":8,"lrn":1,"rev":126}
+[2020-12-13 00:20:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:20:10]	RCC - prev: {"nu":8,"lrn":1,"rev":126}, current: {"nu":8,"lrn":1,"rev":125}
+[2020-12-13 00:20:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:20:12]	RCC - prev: {"nu":8,"lrn":1,"rev":125}, current: {"nu":8,"lrn":1,"rev":124}
+[2020-12-13 00:20:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:20:13]	RCC - prev: {"nu":8,"lrn":1,"rev":124}, current: {"nu":8,"lrn":1,"rev":123}
+[2020-12-13 00:20:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:24:24]	 - Output instruction: {"instType":0}
+[2020-12-13 00:29:31]	 - Output instruction: {"instType":0}
+[2020-12-13 00:31:30]	RCC - prev: {"nu":8,"lrn":3,"rev":123}, current: {"nu":8,"lrn":3,"rev":123}
+[2020-12-13 00:31:30]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:32:42]	 - Output instruction: {"instType":2}
+[2020-12-13 00:32:49]	 - Output instruction: {"instType":2}
+[2020-12-13 00:34:12]	 - Output instruction: {"instType":2}
+[2020-12-13 00:35:46]	 - Output instruction: {"instType":2}
+[2020-12-13 00:35:56]	 - Output instruction: {"instType":2}
+[2020-12-13 00:36:02]	 - Output instruction: {"instType":2}
+[2020-12-13 00:36:02]	 - Output instruction: {"instType":2}
+[2020-12-13 00:36:02]	 - Output instruction: {"instType":2}
+[2020-12-13 00:36:06]	 - Output instruction: {"instType":2}
+[2020-12-13 00:36:38]	RCC - prev: {"nu":8,"lrn":3,"rev":123}, current: {"nu":8,"lrn":2,"rev":123}
+[2020-12-13 00:36:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:36:41]	RCC - prev: {"nu":8,"lrn":2,"rev":123}, current: {"nu":8,"lrn":1,"rev":123}
+[2020-12-13 00:36:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:38:16]	RCC - prev: {"nu":8,"lrn":1,"rev":123}, current: {"nu":8,"lrn":0,"rev":123}
+[2020-12-13 00:38:16]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:38:19]	RCC - prev: {"nu":8,"lrn":0,"rev":123}, current: {"nu":8,"lrn":0,"rev":122}
+[2020-12-13 00:38:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:38:34]	RCC - prev: {"nu":8,"lrn":0,"rev":122}, current: {"nu":8,"lrn":0,"rev":121}
+[2020-12-13 00:38:34]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:38:46]	RCC - prev: {"nu":8,"lrn":0,"rev":121}, current: {"nu":8,"lrn":0,"rev":120}
+[2020-12-13 00:38:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:39:02]	RCC - prev: {"nu":8,"lrn":0,"rev":120}, current: {"nu":8,"lrn":0,"rev":119}
+[2020-12-13 00:39:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:39:11]	RCC - prev: {"nu":8,"lrn":0,"rev":119}, current: {"nu":7,"lrn":1,"rev":119}
+[2020-12-13 00:39:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-13 00:40:12]	RCC - prev: {"nu":7,"lrn":1,"rev":119}, current: {"nu":7,"lrn":1,"rev":118}
+[2020-12-13 00:40:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:42:17]	RCC - prev: {"nu":7,"lrn":1,"rev":118}, current: {"nu":7,"lrn":1,"rev":117}
+[2020-12-13 00:42:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:42:36]	RCC - prev: {"nu":7,"lrn":1,"rev":117}, current: {"nu":7,"lrn":0,"rev":117}
+[2020-12-13 00:42:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:42:39]	RCC - prev: {"nu":7,"lrn":0,"rev":117}, current: {"nu":7,"lrn":0,"rev":116}
+[2020-12-13 00:42:39]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:43:10]	RCC - prev: {"nu":7,"lrn":0,"rev":116}, current: {"nu":7,"lrn":0,"rev":115}
+[2020-12-13 00:43:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:43:12]	RCC - prev: {"nu":7,"lrn":0,"rev":115}, current: {"nu":7,"lrn":0,"rev":114}
+[2020-12-13 00:43:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:43:15]	RCC - prev: {"nu":7,"lrn":0,"rev":114}, current: {"nu":7,"lrn":0,"rev":113}
+[2020-12-13 00:43:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:43:25]	RCC - prev: {"nu":7,"lrn":0,"rev":113}, current: {"nu":7,"lrn":0,"rev":112}
+[2020-12-13 00:43:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:43:27]	RCC - prev: {"nu":7,"lrn":0,"rev":112}, current: {"nu":7,"lrn":0,"rev":111}
+[2020-12-13 00:43:27]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:44:55]	RCC - prev: {"nu":7,"lrn":0,"rev":111}, current: {"nu":7,"lrn":0,"rev":110}
+[2020-12-13 00:44:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:44:58]	RCC - prev: {"nu":7,"lrn":0,"rev":110}, current: {"nu":7,"lrn":0,"rev":109}
+[2020-12-13 00:44:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:02]	RCC - prev: {"nu":7,"lrn":0,"rev":109}, current: {"nu":7,"lrn":0,"rev":108}
+[2020-12-13 00:45:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:05]	RCC - prev: {"nu":7,"lrn":0,"rev":108}, current: {"nu":7,"lrn":0,"rev":106}
+[2020-12-13 00:45:05]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-13 00:45:10]	RCC - prev: {"nu":7,"lrn":0,"rev":106}, current: {"nu":7,"lrn":0,"rev":105}
+[2020-12-13 00:45:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:15]	RCC - prev: {"nu":7,"lrn":0,"rev":105}, current: {"nu":7,"lrn":0,"rev":104}
+[2020-12-13 00:45:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:21]	RCC - prev: {"nu":7,"lrn":0,"rev":104}, current: {"nu":7,"lrn":0,"rev":103}
+[2020-12-13 00:45:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:25]	RCC - prev: {"nu":7,"lrn":0,"rev":103}, current: {"nu":7,"lrn":0,"rev":102}
+[2020-12-13 00:45:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:30]	RCC - prev: {"nu":7,"lrn":0,"rev":102}, current: {"nu":6,"lrn":0,"rev":102}
+[2020-12-13 00:45:30]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 00:45:40]	RCC - prev: {"nu":6,"lrn":0,"rev":102}, current: {"nu":6,"lrn":0,"rev":101}
+[2020-12-13 00:45:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:42]	RCC - prev: {"nu":6,"lrn":0,"rev":101}, current: {"nu":6,"lrn":0,"rev":100}
+[2020-12-13 00:45:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:45:45]	RCC - prev: {"nu":6,"lrn":0,"rev":100}, current: {"nu":6,"lrn":0,"rev":99}
+[2020-12-13 00:45:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:46:55]	RCC - prev: {"nu":6,"lrn":0,"rev":99}, current: {"nu":6,"lrn":0,"rev":98}
+[2020-12-13 00:46:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:46:57]	RCC - prev: {"nu":6,"lrn":0,"rev":98}, current: {"nu":6,"lrn":0,"rev":97}
+[2020-12-13 00:46:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:47:26]	RCC - prev: {"nu":6,"lrn":0,"rev":97}, current: {"nu":6,"lrn":0,"rev":96}
+[2020-12-13 00:47:26]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:47:53]	RCC - prev: {"nu":6,"lrn":0,"rev":96}, current: {"nu":6,"lrn":0,"rev":95}
+[2020-12-13 00:47:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:48:03]	RCC - prev: {"nu":6,"lrn":0,"rev":95}, current: {"nu":6,"lrn":1,"rev":94}
+[2020-12-13 00:48:03]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 00:48:05]	RCC - prev: {"nu":6,"lrn":1,"rev":94}, current: {"nu":6,"lrn":1,"rev":94}
+[2020-12-13 00:48:05]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:48:28]	RCC - prev: {"nu":6,"lrn":1,"rev":94}, current: {"nu":6,"lrn":1,"rev":93}
+[2020-12-13 00:48:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:48:32]	RCC - prev: {"nu":6,"lrn":1,"rev":93}, current: {"nu":6,"lrn":1,"rev":92}
+[2020-12-13 00:48:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:48:49]	RCC - prev: {"nu":6,"lrn":1,"rev":92}, current: {"nu":6,"lrn":1,"rev":91}
+[2020-12-13 00:48:49]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:49:09]	RCC - prev: {"nu":6,"lrn":1,"rev":91}, current: {"nu":6,"lrn":1,"rev":90}
+[2020-12-13 00:49:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:49:24]	RCC - prev: {"nu":6,"lrn":1,"rev":90}, current: {"nu":6,"lrn":1,"rev":89}
+[2020-12-13 00:49:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:49:28]	RCC - prev: {"nu":6,"lrn":1,"rev":89}, current: {"nu":6,"lrn":1,"rev":88}
+[2020-12-13 00:49:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:49:55]	RCC - prev: {"nu":6,"lrn":1,"rev":88}, current: {"nu":6,"lrn":3,"rev":87}
+[2020-12-13 00:49:55]	 - Output instruction: {"instType":1,"dy":-1,"logType":"rev-again"}
+[2020-12-13 00:50:09]	RCC - prev: {"nu":6,"lrn":3,"rev":87}, current: {"nu":6,"lrn":3,"rev":86}
+[2020-12-13 00:50:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:50:16]	RCC - prev: {"nu":6,"lrn":3,"rev":86}, current: {"nu":5,"lrn":3,"rev":86}
+[2020-12-13 00:50:16]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 00:50:19]	RCC - prev: {"nu":5,"lrn":3,"rev":86}, current: {"nu":5,"lrn":3,"rev":86}
+[2020-12-13 00:50:19]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:50:24]	RCC - prev: {"nu":5,"lrn":3,"rev":86}, current: {"nu":5,"lrn":3,"rev":85}
+[2020-12-13 00:50:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:51:46]	RCC - prev: {"nu":5,"lrn":3,"rev":85}, current: {"nu":5,"lrn":4,"rev":85}
+[2020-12-13 00:51:46]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-13 00:51:48]	RCC - prev: {"nu":5,"lrn":4,"rev":85}, current: {"nu":5,"lrn":4,"rev":84}
+[2020-12-13 00:51:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:51:57]	RCC - prev: {"nu":5,"lrn":4,"rev":84}, current: {"nu":5,"lrn":4,"rev":83}
+[2020-12-13 00:51:57]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:51:59]	RCC - prev: {"nu":5,"lrn":4,"rev":83}, current: {"nu":5,"lrn":4,"rev":83}
+[2020-12-13 00:51:59]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:52:00]	RCC - prev: {"nu":5,"lrn":4,"rev":83}, current: {"nu":5,"lrn":4,"rev":82}
+[2020-12-13 00:52:00]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:52:04]	RCC - prev: {"nu":5,"lrn":4,"rev":82}, current: {"nu":5,"lrn":4,"rev":81}
+[2020-12-13 00:52:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:52:06]	RCC - prev: {"nu":5,"lrn":4,"rev":81}, current: {"nu":5,"lrn":4,"rev":80}
+[2020-12-13 00:52:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:20]	RCC - prev: {"nu":5,"lrn":4,"rev":80}, current: {"nu":5,"lrn":4,"rev":79}
+[2020-12-13 00:53:20]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:23]	RCC - prev: {"nu":5,"lrn":4,"rev":79}, current: {"nu":5,"lrn":4,"rev":78}
+[2020-12-13 00:53:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:40]	RCC - prev: {"nu":5,"lrn":4,"rev":78}, current: {"nu":5,"lrn":4,"rev":77}
+[2020-12-13 00:53:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:45]	RCC - prev: {"nu":5,"lrn":4,"rev":77}, current: {"nu":5,"lrn":4,"rev":76}
+[2020-12-13 00:53:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:53]	RCC - prev: {"nu":5,"lrn":4,"rev":76}, current: {"nu":5,"lrn":4,"rev":75}
+[2020-12-13 00:53:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:56]	RCC - prev: {"nu":5,"lrn":4,"rev":75}, current: {"nu":5,"lrn":4,"rev":74}
+[2020-12-13 00:53:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:53:58]	RCC - prev: {"nu":5,"lrn":4,"rev":74}, current: {"nu":5,"lrn":4,"rev":73}
+[2020-12-13 00:53:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:54:02]	RCC - prev: {"nu":5,"lrn":4,"rev":73}, current: {"nu":5,"lrn":4,"rev":72}
+[2020-12-13 00:54:02]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:54:08]	RCC - prev: {"nu":5,"lrn":4,"rev":72}, current: {"nu":5,"lrn":4,"rev":71}
+[2020-12-13 00:54:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:54:10]	RCC - prev: {"nu":5,"lrn":4,"rev":71}, current: {"nu":5,"lrn":4,"rev":70}
+[2020-12-13 00:54:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:54:13]	RCC - prev: {"nu":5,"lrn":4,"rev":70}, current: {"nu":5,"lrn":4,"rev":69}
+[2020-12-13 00:54:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:54:15]	RCC - prev: {"nu":5,"lrn":4,"rev":69}, current: {"nu":5,"lrn":4,"rev":68}
+[2020-12-13 00:54:15]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:55:42]	RCC - prev: {"nu":5,"lrn":4,"rev":68}, current: {"nu":4,"lrn":6,"rev":68}
+[2020-12-13 00:55:42]	 - Output instruction: {"instType":1,"dy":0,"logType":"new"}
+[2020-12-13 00:56:30]	RCC - prev: {"nu":4,"lrn":6,"rev":68}, current: {"nu":4,"lrn":6,"rev":67}
+[2020-12-13 00:56:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:56:32]	RCC - prev: {"nu":4,"lrn":6,"rev":67}, current: {"nu":4,"lrn":6,"rev":65}
+[2020-12-13 00:56:32]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-13 00:56:38]	RCC - prev: {"nu":4,"lrn":6,"rev":65}, current: {"nu":4,"lrn":6,"rev":64}
+[2020-12-13 00:56:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:56:42]	RCC - prev: {"nu":4,"lrn":6,"rev":64}, current: {"nu":4,"lrn":6,"rev":64}
+[2020-12-13 00:56:42]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:57:09]	RCC - prev: {"nu":4,"lrn":6,"rev":64}, current: {"nu":6,"lrn":6,"rev":64}
+[2020-12-13 00:57:09]	 - Output instruction: {"instType":1,"dy":-4,"logType":"unknown"}
+[2020-12-13 00:57:12]	RCC - prev: {"nu":6,"lrn":6,"rev":64}, current: {"nu":6,"lrn":5,"rev":64}
+[2020-12-13 00:57:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:57:19]	RCC - prev: {"nu":6,"lrn":5,"rev":64}, current: {"nu":6,"lrn":5,"rev":63}
+[2020-12-13 00:57:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:57:22]	RCC - prev: {"nu":6,"lrn":5,"rev":63}, current: {"nu":6,"lrn":5,"rev":62}
+[2020-12-13 00:57:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:57:54]	RCC - prev: {"nu":6,"lrn":5,"rev":62}, current: {"nu":6,"lrn":5,"rev":61}
+[2020-12-13 00:57:54]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:57:58]	RCC - prev: {"nu":6,"lrn":5,"rev":61}, current: {"nu":6,"lrn":5,"rev":60}
+[2020-12-13 00:57:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:00]	RCC - prev: {"nu":6,"lrn":5,"rev":60}, current: {"nu":5,"lrn":5,"rev":60}
+[2020-12-13 00:58:00]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 00:58:28]	RCC - prev: {"nu":5,"lrn":5,"rev":60}, current: {"nu":5,"lrn":4,"rev":60}
+[2020-12-13 00:58:28]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:58:35]	RCC - prev: {"nu":5,"lrn":4,"rev":60}, current: {"nu":5,"lrn":4,"rev":59}
+[2020-12-13 00:58:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:37]	RCC - prev: {"nu":5,"lrn":4,"rev":59}, current: {"nu":5,"lrn":4,"rev":58}
+[2020-12-13 00:58:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:41]	RCC - prev: {"nu":5,"lrn":4,"rev":58}, current: {"nu":5,"lrn":4,"rev":57}
+[2020-12-13 00:58:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:43]	RCC - prev: {"nu":5,"lrn":4,"rev":57}, current: {"nu":5,"lrn":4,"rev":56}
+[2020-12-13 00:58:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:46]	RCC - prev: {"nu":5,"lrn":4,"rev":56}, current: {"nu":5,"lrn":4,"rev":55}
+[2020-12-13 00:58:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:53]	RCC - prev: {"nu":5,"lrn":4,"rev":55}, current: {"nu":5,"lrn":4,"rev":54}
+[2020-12-13 00:58:53]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:58:55]	RCC - prev: {"nu":5,"lrn":4,"rev":54}, current: {"nu":5,"lrn":4,"rev":54}
+[2020-12-13 00:58:55]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 00:59:03]	RCC - prev: {"nu":5,"lrn":4,"rev":54}, current: {"nu":5,"lrn":4,"rev":53}
+[2020-12-13 00:59:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:59:06]	RCC - prev: {"nu":5,"lrn":4,"rev":53}, current: {"nu":5,"lrn":3,"rev":53}
+[2020-12-13 00:59:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:59:08]	RCC - prev: {"nu":5,"lrn":3,"rev":53}, current: {"nu":5,"lrn":2,"rev":53}
+[2020-12-13 00:59:08]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 00:59:14]	RCC - prev: {"nu":5,"lrn":2,"rev":53}, current: {"nu":5,"lrn":2,"rev":52}
+[2020-12-13 00:59:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:59:16]	 - Output instruction: {"instType":3}
+[2020-12-13 00:59:19]	RCC - prev: {"nu":5,"lrn":2,"rev":53}, current: {"nu":5,"lrn":2,"rev":52}
+[2020-12-13 00:59:19]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 00:59:21]	RCC - prev: {"nu":5,"lrn":2,"rev":52}, current: {"nu":4,"lrn":2,"rev":52}
+[2020-12-13 00:59:21]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 01:00:32]	RCC - prev: {"nu":4,"lrn":2,"rev":52}, current: {"nu":4,"lrn":2,"rev":51}
+[2020-12-13 01:00:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:00:35]	RCC - prev: {"nu":4,"lrn":2,"rev":51}, current: {"nu":4,"lrn":2,"rev":50}
+[2020-12-13 01:00:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:00:37]	RCC - prev: {"nu":4,"lrn":2,"rev":50}, current: {"nu":4,"lrn":2,"rev":49}
+[2020-12-13 01:00:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:00:39]	RCC - prev: {"nu":4,"lrn":2,"rev":49}, current: {"nu":4,"lrn":2,"rev":48}
+[2020-12-13 01:00:39]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:00:42]	RCC - prev: {"nu":4,"lrn":2,"rev":48}, current: {"nu":4,"lrn":2,"rev":47}
+[2020-12-13 01:00:42]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:02:56]	RCC - prev: {"nu":4,"lrn":2,"rev":47}, current: {"nu":4,"lrn":3,"rev":46}
+[2020-12-13 01:02:56]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 01:02:58]	RCC - prev: {"nu":4,"lrn":3,"rev":46}, current: {"nu":4,"lrn":2,"rev":46}
+[2020-12-13 01:02:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:03:00]	RCC - prev: {"nu":4,"lrn":2,"rev":46}, current: {"nu":4,"lrn":2,"rev":45}
+[2020-12-13 01:03:00]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:20]	RCC - prev: {"nu":4,"lrn":2,"rev":45}, current: {"nu":4,"lrn":5,"rev":44}
+[2020-12-13 01:04:20]	 - Output instruction: {"instType":1,"dy":-2,"logType":"rev-again"}
+[2020-12-13 01:04:23]	RCC - prev: {"nu":4,"lrn":5,"rev":44}, current: {"nu":4,"lrn":5,"rev":43}
+[2020-12-13 01:04:23]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:28]	RCC - prev: {"nu":4,"lrn":5,"rev":43}, current: {"nu":3,"lrn":5,"rev":43}
+[2020-12-13 01:04:28]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 01:04:30]	RCC - prev: {"nu":3,"lrn":5,"rev":43}, current: {"nu":3,"lrn":5,"rev":42}
+[2020-12-13 01:04:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:33]	RCC - prev: {"nu":3,"lrn":5,"rev":42}, current: {"nu":3,"lrn":5,"rev":41}
+[2020-12-13 01:04:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:35]	RCC - prev: {"nu":3,"lrn":5,"rev":41}, current: {"nu":3,"lrn":5,"rev":40}
+[2020-12-13 01:04:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:38]	RCC - prev: {"nu":3,"lrn":5,"rev":40}, current: {"nu":3,"lrn":5,"rev":39}
+[2020-12-13 01:04:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:46]	RCC - prev: {"nu":3,"lrn":5,"rev":39}, current: {"nu":3,"lrn":5,"rev":38}
+[2020-12-13 01:04:46]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:04:56]	RCC - prev: {"nu":3,"lrn":5,"rev":38}, current: {"nu":3,"lrn":5,"rev":37}
+[2020-12-13 01:04:56]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:05:05]	RCC - prev: {"nu":3,"lrn":5,"rev":37}, current: {"nu":3,"lrn":5,"rev":36}
+[2020-12-13 01:05:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:05:07]	RCC - prev: {"nu":3,"lrn":5,"rev":36}, current: {"nu":3,"lrn":4,"rev":36}
+[2020-12-13 01:05:07]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:05:12]	RCC - prev: {"nu":3,"lrn":4,"rev":36}, current: {"nu":3,"lrn":4,"rev":35}
+[2020-12-13 01:05:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:05:58]	RCC - prev: {"nu":3,"lrn":4,"rev":35}, current: {"nu":3,"lrn":5,"rev":34}
+[2020-12-13 01:05:58]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 01:06:01]	RCC - prev: {"nu":3,"lrn":5,"rev":34}, current: {"nu":2,"lrn":5,"rev":34}
+[2020-12-13 01:06:01]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 01:06:58]	RCC - prev: {"nu":2,"lrn":5,"rev":34}, current: {"nu":2,"lrn":5,"rev":33}
+[2020-12-13 01:06:58]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:08:37]	RCC - prev: {"nu":2,"lrn":5,"rev":33}, current: {"nu":2,"lrn":6,"rev":32}
+[2020-12-13 01:08:37]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 01:08:38]	RCC - prev: {"nu":2,"lrn":6,"rev":32}, current: {"nu":2,"lrn":6,"rev":33}
+[2020-12-13 01:08:38]	 - Output instruction: {"instType":1,"dy":-1,"logType":"unknown"}
+[2020-12-13 01:08:43]	RCC - prev: {"nu":2,"lrn":6,"rev":33}, current: {"nu":2,"lrn":6,"rev":32}
+[2020-12-13 01:08:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:08:45]	RCC - prev: {"nu":2,"lrn":6,"rev":32}, current: {"nu":2,"lrn":6,"rev":31}
+[2020-12-13 01:08:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:05]	RCC - prev: {"nu":2,"lrn":6,"rev":31}, current: {"nu":2,"lrn":6,"rev":30}
+[2020-12-13 01:09:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:07]	 - Output instruction: {"instType":3}
+[2020-12-13 01:09:09]	RCC - prev: {"nu":2,"lrn":6,"rev":31}, current: {"nu":2,"lrn":6,"rev":30}
+[2020-12-13 01:09:09]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:13]	RCC - prev: {"nu":2,"lrn":6,"rev":30}, current: {"nu":2,"lrn":6,"rev":29}
+[2020-12-13 01:09:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:17]	RCC - prev: {"nu":2,"lrn":6,"rev":29}, current: {"nu":2,"lrn":6,"rev":28}
+[2020-12-13 01:09:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:22]	RCC - prev: {"nu":2,"lrn":6,"rev":28}, current: {"nu":2,"lrn":6,"rev":27}
+[2020-12-13 01:09:22]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:33]	RCC - prev: {"nu":2,"lrn":6,"rev":27}, current: {"nu":2,"lrn":6,"rev":26}
+[2020-12-13 01:09:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:35]	RCC - prev: {"nu":2,"lrn":6,"rev":26}, current: {"nu":2,"lrn":6,"rev":25}
+[2020-12-13 01:09:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:38]	RCC - prev: {"nu":2,"lrn":6,"rev":25}, current: {"nu":2,"lrn":6,"rev":24}
+[2020-12-13 01:09:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:40]	RCC - prev: {"nu":2,"lrn":6,"rev":24}, current: {"nu":2,"lrn":6,"rev":23}
+[2020-12-13 01:09:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:44]	RCC - prev: {"nu":2,"lrn":6,"rev":23}, current: {"nu":2,"lrn":6,"rev":22}
+[2020-12-13 01:09:44]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:09:47]	RCC - prev: {"nu":2,"lrn":6,"rev":22}, current: {"nu":2,"lrn":6,"rev":21}
+[2020-12-13 01:09:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:10:45]	RCC - prev: {"nu":2,"lrn":6,"rev":21}, current: {"nu":2,"lrn":6,"rev":20}
+[2020-12-13 01:10:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:10:48]	RCC - prev: {"nu":2,"lrn":6,"rev":20}, current: {"nu":2,"lrn":6,"rev":19}
+[2020-12-13 01:10:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:10:52]	RCC - prev: {"nu":2,"lrn":6,"rev":19}, current: {"nu":2,"lrn":6,"rev":18}
+[2020-12-13 01:10:52]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:10:59]	RCC - prev: {"nu":2,"lrn":6,"rev":18}, current: {"nu":2,"lrn":6,"rev":17}
+[2020-12-13 01:10:59]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:11:01]	RCC - prev: {"nu":2,"lrn":6,"rev":17}, current: {"nu":1,"lrn":6,"rev":17}
+[2020-12-13 01:11:01]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 01:11:12]	RCC - prev: {"nu":1,"lrn":6,"rev":17}, current: {"nu":1,"lrn":6,"rev":16}
+[2020-12-13 01:11:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:11:51]	RCC - prev: {"nu":1,"lrn":6,"rev":16}, current: {"nu":1,"lrn":7,"rev":15}
+[2020-12-13 01:11:51]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 01:11:55]	RCC - prev: {"nu":1,"lrn":7,"rev":15}, current: {"nu":1,"lrn":7,"rev":14}
+[2020-12-13 01:11:55]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:03]	RCC - prev: {"nu":1,"lrn":7,"rev":14}, current: {"nu":1,"lrn":7,"rev":13}
+[2020-12-13 01:12:03]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:21]	RCC - prev: {"nu":1,"lrn":7,"rev":13}, current: {"nu":1,"lrn":7,"rev":12}
+[2020-12-13 01:12:21]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:24]	RCC - prev: {"nu":1,"lrn":7,"rev":12}, current: {"nu":1,"lrn":7,"rev":11}
+[2020-12-13 01:12:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:30]	RCC - prev: {"nu":1,"lrn":7,"rev":11}, current: {"nu":1,"lrn":7,"rev":10}
+[2020-12-13 01:12:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:32]	RCC - prev: {"nu":1,"lrn":7,"rev":10}, current: {"nu":1,"lrn":7,"rev":9}
+[2020-12-13 01:12:32]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:35]	RCC - prev: {"nu":1,"lrn":7,"rev":9}, current: {"nu":1,"lrn":6,"rev":9}
+[2020-12-13 01:12:35]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:12:37]	RCC - prev: {"nu":1,"lrn":6,"rev":9}, current: {"nu":1,"lrn":6,"rev":8}
+[2020-12-13 01:12:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:12:43]	RCC - prev: {"nu":1,"lrn":6,"rev":8}, current: {"nu":1,"lrn":6,"rev":7}
+[2020-12-13 01:12:43]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:14:44]	RCC - prev: {"nu":1,"lrn":6,"rev":7}, current: {"nu":1,"lrn":7,"rev":6}
+[2020-12-13 01:14:44]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 01:14:47]	RCC - prev: {"nu":1,"lrn":7,"rev":6}, current: {"nu":1,"lrn":6,"rev":6}
+[2020-12-13 01:14:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:15:10]	RCC - prev: {"nu":1,"lrn":6,"rev":6}, current: {"nu":1,"lrn":5,"rev":6}
+[2020-12-13 01:15:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:15:18]	RCC - prev: {"nu":1,"lrn":5,"rev":6}, current: {"nu":1,"lrn":4,"rev":6}
+[2020-12-13 01:15:18]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:15:24]	RCC - prev: {"nu":1,"lrn":4,"rev":6}, current: {"nu":1,"lrn":6,"rev":6}
+[2020-12-13 01:15:24]	 - Output instruction: {"instType":1,"dy":-2,"logType":"again"}
+[2020-12-13 01:15:46]	 - Output instruction: {"instType":2}
+[2020-12-13 01:15:48]	RCC - prev: {"nu":1,"lrn":6,"rev":6}, current: {"nu":1,"lrn":5,"rev":6}
+[2020-12-13 01:15:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:15:52]	RCC - prev: {"nu":1,"lrn":5,"rev":6}, current: {"nu":1,"lrn":4,"rev":6}
+[2020-12-13 01:15:52]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 01:16:04]	RCC - prev: {"nu":1,"lrn":4,"rev":6}, current: {"nu":1,"lrn":4,"rev":5}
+[2020-12-13 01:16:04]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:07]	RCC - prev: {"nu":1,"lrn":4,"rev":5}, current: {"nu":0,"lrn":4,"rev":5}
+[2020-12-13 01:16:07]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 01:16:12]	RCC - prev: {"nu":0,"lrn":4,"rev":5}, current: {"nu":0,"lrn":4,"rev":4}
+[2020-12-13 01:16:12]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:25]	RCC - prev: {"nu":0,"lrn":4,"rev":4}, current: {"nu":0,"lrn":4,"rev":3}
+[2020-12-13 01:16:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:30]	RCC - prev: {"nu":0,"lrn":4,"rev":3}, current: {"nu":0,"lrn":4,"rev":2}
+[2020-12-13 01:16:30]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:37]	RCC - prev: {"nu":0,"lrn":4,"rev":2}, current: {"nu":0,"lrn":4,"rev":1}
+[2020-12-13 01:16:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:48]	RCC - prev: {"nu":0,"lrn":4,"rev":1}, current: {"nu":0,"lrn":4,"rev":0}
+[2020-12-13 01:16:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 01:16:54]	RCC - prev: {"nu":0,"lrn":4,"rev":0}, current: {"nu":0,"lrn":5,"rev":0}
+[2020-12-13 01:16:54]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-13 01:16:57]	 - Output instruction: {"instType":3}
+[2020-12-13 22:29:35]	 - Output instruction: {"instType":0}
+[2020-12-13 22:29:37]	RCC - prev: {"nu":70,"lrn":2,"rev":208}, current: {"nu":70,"lrn":1,"rev":208}
+[2020-12-13 22:29:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:29:40]	RCC - prev: {"nu":70,"lrn":1,"rev":208}, current: {"nu":70,"lrn":0,"rev":208}
+[2020-12-13 22:29:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:29:50]	RCC - prev: {"nu":70,"lrn":0,"rev":208}, current: {"nu":70,"lrn":0,"rev":207}
+[2020-12-13 22:29:50]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:29:54]	RCC - prev: {"nu":70,"lrn":0,"rev":207}, current: {"nu":69,"lrn":0,"rev":207}
+[2020-12-13 22:29:54]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 22:30:14]	RCC - prev: {"nu":69,"lrn":0,"rev":207}, current: {"nu":69,"lrn":0,"rev":206}
+[2020-12-13 22:30:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:30:17]	RCC - prev: {"nu":69,"lrn":0,"rev":206}, current: {"nu":69,"lrn":0,"rev":205}
+[2020-12-13 22:30:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:30:22]	RCC - prev: {"nu":69,"lrn":0,"rev":205}, current: {"nu":68,"lrn":0,"rev":200}
+[2020-12-13 22:30:22]	 - Output instruction: {"instType":2}
+[2020-12-13 22:30:23]	RCC - prev: {"nu":68,"lrn":0,"rev":200}, current: {"nu":69,"lrn":0,"rev":200}
+[2020-12-13 22:30:23]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-13 22:30:25]	RCC - prev: {"nu":69,"lrn":0,"rev":200}, current: {"nu":69,"lrn":0,"rev":199}
+[2020-12-13 22:30:25]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:30:27]	RCC - prev: {"nu":69,"lrn":0,"rev":199}, current: {"nu":68,"lrn":0,"rev":199}
+[2020-12-13 22:30:27]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 22:30:31]	RCC - prev: {"nu":68,"lrn":0,"rev":199}, current: {"nu":68,"lrn":0,"rev":198}
+[2020-12-13 22:30:31]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:31:48]	RCC - prev: {"nu":68,"lrn":0,"rev":198}, current: {"nu":68,"lrn":0,"rev":197}
+[2020-12-13 22:31:48]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:39:03]	RCC - prev: {"nu":68,"lrn":0,"rev":197}, current: {"nu":67,"lrn":2,"rev":197}
+[2020-12-13 22:39:03]	 - Output instruction: {"instType":1,"dy":0,"logType":"new"}
+[2020-12-13 22:39:10]	RCC - prev: {"nu":67,"lrn":2,"rev":197}, current: {"nu":67,"lrn":2,"rev":196}
+[2020-12-13 22:39:10]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:39:13]	RCC - prev: {"nu":67,"lrn":2,"rev":196}, current: {"nu":67,"lrn":2,"rev":195}
+[2020-12-13 22:39:13]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:39:19]	 - Output instruction: {"instType":2}
+[2020-12-13 22:39:20]	 - Output instruction: {"instType":2}
+[2020-12-13 22:39:21]	 - Output instruction: {"instType":2}
+[2020-12-13 22:40:02]	RCC - prev: {"nu":67,"lrn":2,"rev":195}, current: {"nu":68,"lrn":2,"rev":191}
+[2020-12-13 22:40:02]	 - Output instruction: {"instType":2}
+[2020-12-13 22:40:18]	RCC - prev: {"nu":68,"lrn":2,"rev":191}, current: {"nu":69,"lrn":2,"rev":191}
+[2020-12-13 22:40:18]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-13 22:40:24]	RCC - prev: {"nu":69,"lrn":2,"rev":191}, current: {"nu":69,"lrn":2,"rev":190}
+[2020-12-13 22:40:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:40:30]	RCC - prev: {"nu":69,"lrn":2,"rev":190}, current: {"nu":68,"lrn":2,"rev":188}
+[2020-12-13 22:40:30]	 - Output instruction: {"instType":2}
+[2020-12-13 22:40:41]	RCC - prev: {"nu":68,"lrn":2,"rev":188}, current: {"nu":68,"lrn":2,"rev":188}
+[2020-12-13 22:40:41]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 22:40:54]	RCC - prev: {"nu":68,"lrn":2,"rev":188}, current: {"nu":68,"lrn":3,"rev":187}
+[2020-12-13 22:40:54]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 22:41:05]	RCC - prev: {"nu":68,"lrn":3,"rev":187}, current: {"nu":67,"lrn":4,"rev":187}
+[2020-12-13 22:41:05]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-13 22:41:07]	 - Output instruction: {"instType":3}
+[2020-12-13 22:41:12]	RCC - prev: {"nu":68,"lrn":3,"rev":187}, current: {"nu":60,"lrn":3,"rev":186}
+[2020-12-13 22:41:12]	 - Output instruction: {"instType":2}
+[2020-12-13 22:41:12]	 - Output instruction: {"instType":2}
+[2020-12-13 22:43:46]	RCC - prev: {"nu":68,"lrn":3,"rev":187}, current: {"nu":68,"lrn":4,"rev":187}
+[2020-12-13 22:43:46]	 - Output instruction: {"instType":1,"dy":-1,"logType":"again"}
+[2020-12-13 22:43:58]	RCC - prev: {"nu":68,"lrn":4,"rev":187}, current: {"nu":68,"lrn":4,"rev":187}
+[2020-12-13 22:43:58]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 22:52:09]	RCC - prev: {"nu":68,"lrn":4,"rev":187}, current: {"nu":71,"lrn":5,"rev":187}
+[2020-12-13 22:52:09]	 - Output instruction: {"instType":1,"dy":-7,"logType":"unknown"}
+[2020-12-13 22:54:04]	RCC - prev: {"nu":71,"lrn":5,"rev":187}, current: {"nu":72,"lrn":5,"rev":187}
+[2020-12-13 22:54:04]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-13 22:54:06]	RCC - prev: {"nu":72,"lrn":5,"rev":187}, current: {"nu":72,"lrn":4,"rev":187}
+[2020-12-13 22:54:06]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:54:56]	 - Output instruction: {"instType":2}
+[2020-12-13 22:55:09]	 - Output instruction: {"instType":2}
+[2020-12-13 22:55:11]	RCC - prev: {"nu":72,"lrn":4,"rev":187}, current: {"nu":72,"lrn":3,"rev":187}
+[2020-12-13 22:55:11]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:55:14]	RCC - prev: {"nu":72,"lrn":3,"rev":187}, current: {"nu":72,"lrn":2,"rev":187}
+[2020-12-13 22:55:14]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:55:17]	RCC - prev: {"nu":72,"lrn":2,"rev":187}, current: {"nu":72,"lrn":1,"rev":187}
+[2020-12-13 22:55:17]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:55:38]	RCC - prev: {"nu":72,"lrn":1,"rev":187}, current: {"nu":72,"lrn":0,"rev":187}
+[2020-12-13 22:55:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"good"}
+[2020-12-13 22:55:41]	RCC - prev: {"nu":72,"lrn":0,"rev":187}, current: {"nu":72,"lrn":0,"rev":186}
+[2020-12-13 22:55:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:55:51]	RCC - prev: {"nu":72,"lrn":0,"rev":186}, current: {"nu":72,"lrn":0,"rev":185}
+[2020-12-13 22:55:51]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:57:21]	RCC - prev: {"nu":72,"lrn":0,"rev":185}, current: {"nu":73,"lrn":0,"rev":185}
+[2020-12-13 22:57:21]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-13 22:57:24]	RCC - prev: {"nu":73,"lrn":0,"rev":185}, current: {"nu":73,"lrn":0,"rev":184}
+[2020-12-13 22:57:24]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:57:26]	RCC - prev: {"nu":73,"lrn":0,"rev":184}, current: {"nu":73,"lrn":0,"rev":183}
+[2020-12-13 22:57:26]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 22:57:40]	RCC - prev: {"nu":73,"lrn":0,"rev":183}, current: {"nu":72,"lrn":0,"rev":183}
+[2020-12-13 22:57:40]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 22:58:37]	RCC - prev: {"nu":72,"lrn":0,"rev":183}, current: {"nu":72,"lrn":0,"rev":180}
+[2020-12-13 22:58:37]	 - Output instruction: {"instType":1,"dy":3,"logType":"rev-good"}
+[2020-12-13 23:00:31]	RCC - prev: {"nu":72,"lrn":0,"rev":180}, current: {"nu":73,"lrn":0,"rev":180}
+[2020-12-13 23:00:31]	 - Output instruction: {"instType":1,"dy":-2,"logType":"unknown"}
+[2020-12-13 23:00:33]	 - Output instruction: {"instType":3}
+[2020-12-13 23:00:36]	RCC - prev: {"nu":72,"lrn":0,"rev":180}, current: {"nu":72,"lrn":0,"rev":179}
+[2020-12-13 23:00:36]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:00:38]	RCC - prev: {"nu":72,"lrn":0,"rev":179}, current: {"nu":72,"lrn":0,"rev":178}
+[2020-12-13 23:00:38]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:00:44]	RCC - prev: {"nu":72,"lrn":0,"rev":178}, current: {"nu":70,"lrn":0,"rev":177}
+[2020-12-13 23:00:44]	 - Output instruction: {"instType":2}
+[2020-12-13 23:00:46]	RCC - prev: {"nu":70,"lrn":0,"rev":177}, current: {"nu":69,"lrn":0,"rev":177}
+[2020-12-13 23:00:46]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 23:01:08]	RCC - prev: {"nu":69,"lrn":0,"rev":177}, current: {"nu":69,"lrn":0,"rev":177}
+[2020-12-13 23:01:08]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 23:01:11]	RCC - prev: {"nu":69,"lrn":0,"rev":177}, current: {"nu":68,"lrn":0,"rev":177}
+[2020-12-13 23:01:11]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 23:01:15]	 - Output instruction: {"instType":3}
+[2020-12-13 23:01:17]	RCC - prev: {"nu":69,"lrn":0,"rev":177}, current: {"nu":69,"lrn":0,"rev":177}
+[2020-12-13 23:01:17]	 - Output instruction: {"instType":1,"dy":0,"logType":"again"}
+[2020-12-13 23:01:19]	RCC - prev: {"nu":69,"lrn":0,"rev":177}, current: {"nu":69,"lrn":0,"rev":175}
+[2020-12-13 23:01:19]	 - Output instruction: {"instType":1,"dy":2,"logType":"rev-good"}
+[2020-12-13 23:01:40]	RCC - prev: {"nu":69,"lrn":0,"rev":175}, current: {"nu":69,"lrn":0,"rev":174}
+[2020-12-13 23:01:40]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:02:17]	RCC - prev: {"nu":69,"lrn":0,"rev":174}, current: {"nu":68,"lrn":0,"rev":174}
+[2020-12-13 23:02:17]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 23:02:33]	RCC - prev: {"nu":68,"lrn":0,"rev":174}, current: {"nu":68,"lrn":0,"rev":173}
+[2020-12-13 23:02:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:02:37]	RCC - prev: {"nu":68,"lrn":0,"rev":173}, current: {"nu":68,"lrn":0,"rev":172}
+[2020-12-13 23:02:37]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:02:40]	RCC - prev: {"nu":68,"lrn":0,"rev":172}, current: {"nu":67,"lrn":0,"rev":172}
+[2020-12-13 23:02:40]	 - Output instruction: {"instType":1,"dy":2,"logType":"new"}
+[2020-12-13 23:02:47]	RCC - prev: {"nu":67,"lrn":0,"rev":172}, current: {"nu":67,"lrn":0,"rev":171}
+[2020-12-13 23:02:47]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}
+[2020-12-13 23:05:28]	RCC - prev: {"nu":67,"lrn":0,"rev":171}, current: {"nu":67,"lrn":1,"rev":170}
+[2020-12-13 23:05:28]	 - Output instruction: {"instType":1,"dy":0,"logType":"rev-again"}
+[2020-12-13 23:05:33]	RCC - prev: {"nu":67,"lrn":1,"rev":170}, current: {"nu":66,"lrn":2,"rev":170}
+[2020-12-13 23:05:33]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-13 23:05:34]	RCC - prev: {"nu":66,"lrn":2,"rev":170}, current: {"nu":48,"lrn":1,"rev":166}
+[2020-12-13 23:05:34]	 - Output instruction: {"instType":2}
+[2020-12-13 23:05:41]	RCC - prev: {"nu":48,"lrn":1,"rev":166}, current: {"nu":47,"lrn":2,"rev":166}
+[2020-12-13 23:05:41]	 - Output instruction: {"instType":1,"dy":1,"logType":"new"}
+[2020-12-13 23:05:45]	RCC - prev: {"nu":47,"lrn":2,"rev":166}, current: {"nu":47,"lrn":2,"rev":165}
+[2020-12-13 23:05:45]	 - Output instruction: {"instType":1,"dy":1,"logType":"rev-good"}

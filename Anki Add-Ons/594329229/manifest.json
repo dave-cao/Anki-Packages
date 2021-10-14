@@ -1,0 +1,14 @@
+{
+    "name": "Hierarchical Tags 2",
+    "package": "594329229",
+    "ankiweb_id": "594329229",
+    "author": "Glutanimate",
+    "version": "v2.0.4",
+    "homepage": "https://github.com/glutanimate/hierarchical-tags",
+    "conflicts": [
+        "hierarchical_tags",
+        "1835859645",
+        "829533913"
+    ],
+    "mod": 1615083586
+}

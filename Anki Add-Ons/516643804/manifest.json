@@ -1,0 +1,12 @@
+{
+    "name": "Frozen Fields",
+    "package": "516643804",
+    "ankiweb_id": "516643804",
+    "author": "Glutanimate",
+    "version": "v2.1.1",
+    "homepage": "https://github.com/glutanimate/frozen-fields",
+    "conflicts": [
+        "frozen_fields"
+    ],
+    "mod": 1582316797
+}
