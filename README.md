@@ -40,7 +40,7 @@ These Add-ons are what I found after years of updating and researching to boost 
 - Syntax highlighting for Code
 - True Retention
 - Visual Feedback for Reviews
-__________________________________
+    __________________________________
 
 ## My Notes
 
@@ -48,7 +48,7 @@ Everything of my KIN degree is located in
 - AA KIN 3rd Year
 - AA KIN 4th Year
 
-Everything else is separate packages that are a part of these decks.
+    **Everything else is separate packages that are a part of these decks.**
 
 ### AA KIN 3rd Year
 
@@ -61,6 +61,8 @@ Everything else is separate packages that are a part of these decks.
 - KIN 334 - Physical Activity, Nutrition and Energy Balance
 - KIN 335 - Advanced Conditioning Methodology
 
+    ![Anki Tree for KIN 3rd Year](screenshots/AAKIN_Year_3.png)
+
 ### AA KIN 4th Year
 
 - KIN 302 - Human Motor Control
@@ -71,9 +73,9 @@ Everything else is separate packages that are a part of these decks.
 - KIN 401 - Applied Ethics in Sport, Physical Activity and Exercise
 - KIN 435 - Applied Resistance Training
 
-![Anki Tree for KIN 4th Year](screenshots/AAKIN_Year_4.png)
+    ![Anki Tree for KIN 4th Year](screenshots/AAKIN_Year_4.png)
 
-__________________________________
+    __________________________________
 
 ### Extra Resources
 
@@ -81,7 +83,6 @@ An Anki Tutorial Video I Made: https://drive.google.com/file/d/1TUF_yPYD15All1eQ
 
 An Anki Promotion Video I Made: (Not Sponsored): https://www.youtube.com/watch?v=gYBYyg3fGRQ
 
-__________________________________
 
 > To be Added:
 > - Music (Harmonize Notes)
